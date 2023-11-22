@@ -347,14 +347,6 @@
 		"descricao": "Depuradores por conversão catalítica de gases de escape"
 	},
 	{
-		"item": "42.0",
-		"cest": "01.042.00",
-		"ncms": [
-			"8421.39.20"
-		],
-		"descricao": "Depuradores por conversão catalítica de gases de escape"
-	},
-	{
 		"item": "43.0",
 		"cest": "01.043.00",
 		"ncms": [
@@ -485,14 +477,6 @@
 		"descricao": "Telefones móveis do tipo dos utilizados em veículos automóveis"
 	},
 	{
-		"item": "56.0",
-		"cest": "01.056.00",
-		"ncms": [
-			"8517.12.13"
-		],
-		"descricao": "Telefones móveis do tipo dos utilizados em veículos automóveis."
-	},
-	{
 		"item": "57.0",
 		"cest": "01.057.00",
 		"ncms": [
@@ -554,14 +538,6 @@
 		"cest": "01.063.00",
 		"ncms": [
 			"8529.10"
-		],
-		"descricao": "Antenas"
-	},
-	{
-		"item": "63.0",
-		"cest": "01.063.00",
-		"ncms": [
-			"8529.10.90"
 		],
 		"descricao": "Antenas"
 	},
@@ -744,15 +720,6 @@
 		"descricao": "Assentos e partes de assentos"
 	},
 	{
-		"item": "85.0",
-		"cest": "01.085.00",
-		"ncms": [
-			"9401.20.00",
-			"9401.90.90"
-		],
-		"descricao": "Assentos e partes de assentos"
-	},
-	{
 		"item": "86.0",
 		"cest": "01.086.00",
 		"ncms": [
@@ -791,16 +758,6 @@
 		"ncms": [
 			"3919.10",
 			"3919.90",
-			"8708.29.99"
-		],
-		"descricao": "Fitas, tiras, adesivos, autocolantes, de plástico, refletores, mesmo em rolos; placas metálicas com película de plástico refletora, próprias para colocação em carrocerias, para-choques de veículos de carga, motocicletas, ciclomotores, capacetes, bonés de agentes de trânsito e de condutores de veículos, atuando como dispositivos refletivos de segurança rodoviários"
-	},
-	{
-		"item": "90.0",
-		"cest": "01.090.00",
-		"ncms": [
-			"3919.10.00",
-			"3919.90.00",
 			"8708.29.99"
 		],
 		"descricao": "Fitas, tiras, adesivos, autocolantes, de plástico, refletores, mesmo em rolos; placas metálicas com película de plástico refletora, próprias para colocação em carrocerias, para-choques de veículos de carga, motocicletas, ciclomotores, capacetes, bonés de agentes de trânsito e de condutores de veículos, atuando como dispositivos refletivos de segurança rodoviários"
@@ -932,26 +889,10 @@
 		"descricao": "Tapetes/carpetes – náilon"
 	},
 	{
-		"item": "105.0",
-		"cest": "01.105.00",
-		"ncms": [
-			"5703.20.00"
-		],
-		"descricao": "Tapetes/carpetes - nailón"
-	},
-	{
 		"item": "106.0",
 		"cest": "01.106.00",
 		"ncms": [
 			"5703.39.00"
-		],
-		"descricao": "Tapetes de matérias têxteis sintéticas"
-	},
-	{
-		"item": "106.0",
-		"cest": "01.106.00",
-		"ncms": [
-			"5703.30.00"
 		],
 		"descricao": "Tapetes de matérias têxteis sintéticas"
 	},
@@ -978,22 +919,6 @@
 			"7007.29.00"
 		],
 		"descricao": "Moldura com espelho"
-	},
-	{
-		"item": "110.0",
-		"cest": "01.110.00",
-		"ncms": [
-			"7314.50.00"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "110.0",
-		"cest": "01.110.00",
-		"ncms": [
-			"7314.50.00"
-		],
-		"descricao": "Corrente de transmissão"
 	},
 	{
 		"item": "111.0",
@@ -1360,52 +1285,12 @@
 		"descricao": "Outras bebidas alcoólicas não especificadas nos itens anteriores"
 	},
 	{
-		"item": "1.0",
-		"cest": "03.001.00",
-		"ncms": [
-			"2201.10.00"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "2.0",
-		"cest": "03.002.00",
-		"ncms": [
-			"2201.10.00"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "1.0",
-		"cest": "03.001.00",
-		"ncms": [
-			"2201.10.00"
-		],
-		"descricao": "Água mineral, gasosa ou não, ou potável, naturais, em garrafa de vidro, retornável ou não, com capacidade de até 500 ml"
-	},
-	{
-		"item": "2.0",
-		"cest": "03.002.00",
-		"ncms": [
-			"2201.10.00"
-		],
-		"descricao": "Água mineral, gasosa ou não, ou potável, naturais, em embalagem com capacidade igual ou superior a 5.000 ml; exceto as classificadas no CEST 03.024.00 e 03.025.00"
-	},
-	{
 		"item": "3.0",
 		"cest": "03.003.00",
 		"ncms": [
 			"2201.10.00"
 		],
 		"descricao": "Água mineral, gasosa ou não, ou potável, naturais, em embalagem de vidro descartável"
-	},
-	{
-		"item": "3.0",
-		"cest": "03.003.00",
-		"ncms": [
-			"2201.10.00"
-		],
-		"descricao": "Água mineral, gasosa ou não, ou potável, naturais, em embalagem de vidro, não retornável, com capacidade de até 300 ml"
 	},
 	{
 		"item": "3.1",
@@ -1416,36 +1301,12 @@
 		"descricao": "Água mineral, gasosa ou não, ou potável, naturais, adicionadas de sais, em embalagem de vidro descartável"
 	},
 	{
-		"item": "4.0",
-		"cest": "03.004.00",
-		"ncms": [
-			"2201.10.00"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "4.0",
-		"cest": "03.004.00",
-		"ncms": [
-			"2201.10.00"
-		],
-		"descricao": "Água mineral, gasosa ou não, ou potável, naturais, em garrafa plástica de 1.500 ml"
-	},
-	{
 		"item": "5.0",
 		"cest": "03.005.00",
 		"ncms": [
 			"2201.10.00"
 		],
 		"descricao": "Água mineral, gasosa ou não, ou potável, naturais, em copo plástico descartável"
-	},
-	{
-		"item": "5.0",
-		"cest": "03.005.00",
-		"ncms": [
-			"2201.10.00"
-		],
-		"descricao": "Água mineral, gasosa ou não, ou potável, naturais, em copos plásticos e embalagem plástica com capacidade de até 500 ml"
 	},
 	{
 		"item": "5.1",
@@ -1496,28 +1357,12 @@
 		"descricao": "Outras águas minerais, gasosa ou não, ou potável, naturais; exceto as classificadas no CEST 03.003.00, 03.003.01, 03.005.00, 03.005.01 a 03.005.05, 03.024.00 e 03.025.00"
 	},
 	{
-		"item": "6.0",
-		"cest": "03.006.00",
-		"ncms": [
-			"2201.10.00"
-		],
-		"descricao": "Outras águas minerais, potáveis ou naturais, gasosas ou não, inclusive gaseificadas; exceto as classificadas no CEST 03.024.00 e 03.025.00"
-	},
-	{
 		"item": "7.0",
 		"cest": "03.007.00",
 		"ncms": [
 			"2202.10.00"
 		],
 		"descricao": "Água aromatizada artificialmente, exceto os refrescos e refrigerantes"
-	},
-	{
-		"item": "7.0",
-		"cest": "03.007.00",
-		"ncms": [
-			"2202.10.00"
-		],
-		"descricao": "Águas minerais, potáveis ou naturais, gasosas ou não, inclusive gaseificadas ou aromatizadas artificialmente, exceto os refrescos e refrigerantes"
 	},
 	{
 		"item": "8.0",
@@ -1528,14 +1373,6 @@
 		"descricao": "Outras águas minerais, gasosa ou não, ou potável, naturais, inclusive gaseificadas ou aromatizadas artificialmente, exceto os refrescos e refrigerantes"
 	},
 	{
-		"item": "8.0",
-		"cest": "03.008.00",
-		"ncms": [
-			"2202.99.00"
-		],
-		"descricao": "Outras águas minerais, potáveis ou naturais, gasosas ou não, inclusive gaseificadas ou aromatizadas artificialmente"
-	},
-	{
 		"item": "10.0",
 		"cest": "03.010.00",
 		"ncms": [
@@ -1543,14 +1380,6 @@
 			"2202.99.00"
 		],
 		"descricao": "Refrigerante em vidro descartável"
-	},
-	{
-		"item": "10.0",
-		"cest": "03.010.00",
-		"ncms": [
-			"2202"
-		],
-		"descricao": "Refrigerantes em garrafa com capacidade igual ou superior a 600 ml, exceto os classificados no CEST 03.011.01"
 	},
 	{
 		"item": "10.1",
@@ -1571,24 +1400,6 @@
 		"descricao": "Refrigerante em lata"
 	},
 	{
-		"item": "10.3",
-		"cest": "03.010.03",
-		"ncms": [
-			"2202.10.00",
-			"2202.99.00"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "10.3",
-		"cest": "03.010.03",
-		"ncms": [
-			"2202.10.00",
-			"2202.99.00"
-		],
-		"descricao": "Cápsula de refrigerante"
-	},
-	{
 		"item": "11.0",
 		"cest": "03.011.00",
 		"ncms": [
@@ -1596,23 +1407,6 @@
 			"2202.99.00"
 		],
 		"descricao": "Demais refrigerantes, exceto os classificados no CEST 03.010.00, 03.010.01, 03.010.02 e 03.011.01"
-	},
-	{
-		"item": "11.0",
-		"cest": "03.011.00",
-		"ncms": [
-			"2202.10.00",
-			"2202.99.00"
-		],
-		"descricao": "Demais refrigerantes, exceto os classificados no CEST 03.010.00, 03.010.01, 03.010.02, 03.010.03 e 03.011.01"
-	},
-	{
-		"item": "11.0",
-		"cest": "03.011.00",
-		"ncms": [
-			"2202"
-		],
-		"descricao": "Demais refrigerantes, exceto os classificados no CEST 03.010.00 e 03.011.01"
 	},
 	{
 		"item": "11.1",
@@ -1631,14 +1425,6 @@
 		"descricao": "Xarope ou extrato concentrado destinados ao preparo de refrigerante em máquina “pré-mix” ou “post-mix”, exceto o classificado no CEST 03.012.01"
 	},
 	{
-		"item": "12.0",
-		"cest": "03.012.00",
-		"ncms": [
-			"2106.90.10"
-		],
-		"descricao": "Xarope ou extrato concentrado destinados ao preparo de refrigerante em máquina “pré-mix” ou “post-mix”"
-	},
-	{
 		"item": "12.1",
 		"cest": "03.012.01",
 		"ncms": [
@@ -1654,15 +1440,6 @@
 			"2202.99.00"
 		],
 		"descricao": "Bebidas energéticas em lata"
-	},
-	{
-		"item": "13.0",
-		"cest": "03.013.00",
-		"ncms": [
-			"2106.90",
-			"2202.99.00"
-		],
-		"descricao": "Bebidas energéticas em embalagem com capacidade inferior a 600ml"
 	},
 	{
 		"item": "13.1",
@@ -1683,24 +1460,6 @@
 		"descricao": "Bebidas energéticas em vidro"
 	},
 	{
-		"item": "14.0",
-		"cest": "03.014.00",
-		"ncms": [
-			"2106.90",
-			"2202.99.00"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "14.0",
-		"cest": "03.014.00",
-		"ncms": [
-			"2106.90",
-			"2202.99.00"
-		],
-		"descricao": "Bebidas energéticas em embalagem com capacidade igual ou superior a 600ml"
-	},
-	{
 		"item": "15.0",
 		"cest": "03.015.00",
 		"ncms": [
@@ -1710,65 +1469,12 @@
 		"descricao": "Bebidas hidroeletrolíticas"
 	},
 	{
-		"item": "15.0",
-		"cest": "03.015.00",
-		"ncms": [
-			"2106.90",
-			"2202.99.00"
-		],
-		"descricao": "Bebidas hidroeletrolíticas em embalagem com capacidade inferior a 600ml"
-	},
-	{
-		"item": "15.0",
-		"cest": "03.015.00",
-		"ncms": [
-			"2106.90",
-			"2202.99.00"
-		],
-		"descricao": "Bebidas hidroeletrolíticas (isotônicas) em embalagem com capacidade inferior a 600ml"
-	},
-	{
-		"item": "16.0",
-		"cest": "03.016.00",
-		"ncms": [
-			"2106.90",
-			"2202.99.00"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "16.0",
-		"cest": "03.016.00",
-		"ncms": [
-			"2106.90",
-			"2202.99.00"
-		],
-		"descricao": "Bebidas hidroeletrolíticas em embalagem com capacidade igual ou superior a 600ml"
-	},
-	{
-		"item": "16.0",
-		"cest": "03.016.00",
-		"ncms": [
-			"2106.90",
-			"2202.99.00"
-		],
-		"descricao": "Bebidas hidroeletrolíticas (isotônicas) em embalagem com capacidade igual ou superior a 600ml"
-	},
-	{
 		"item": "21.0",
 		"cest": "03.021.00",
 		"ncms": [
 			"2203.00.00"
 		],
 		"descricao": "Cerveja em garrafa de vidro retornável"
-	},
-	{
-		"item": "21.0",
-		"cest": "03.021.00",
-		"ncms": [
-			"2203.00.00"
-		],
-		"descricao": "Cerveja"
 	},
 	{
 		"item": "21.1",
@@ -1825,14 +1531,6 @@
 			"2202.91.00"
 		],
 		"descricao": "Cerveja sem álcool em garrafa de vidro retornável"
-	},
-	{
-		"item": "22.0",
-		"cest": "03.022.00",
-		"ncms": [
-			"2202.91.00"
-		],
-		"descricao": "Cerveja sem álcool"
 	},
 	{
 		"item": "22.1",
@@ -2507,14 +2205,6 @@
 		"descricao": "Lâmpadas de LED (diodos emissores de luz)"
 	},
 	{
-		"item": "5.0",
-		"cest": "09.005.00",
-		"ncms": [
-			"8539.50.00"
-		],
-		"descricao": "Lâmpadas de LED (Diodos Emissores de Luz)"
-	},
-	{
 		"item": "1.0",
 		"cest": "10.001.00",
 		"ncms": [
@@ -2695,36 +2385,12 @@
 		"descricao": "Telhas de concreto"
 	},
 	{
-		"item": "23.0",
-		"cest": "10.023.00",
-		"ncms": [
-			"6811"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "23.0",
-		"cest": "10.023.00",
-		"ncms": [
-			"6811"
-		],
-		"descricao": "Telha, cumeeira e caixa d’água, inclusive sua tampa, de fibrocimento, cimento-celulose"
-	},
-	{
 		"item": "24.0",
 		"cest": "10.024.00",
 		"ncms": [
 			"6811"
 		],
 		"descricao": "Caixas d’água, tanques e reservatórios e suas tampas, telhas, calhas, cumeeiras e afins, de fibrocimento, cimento-celulose ou semelhantes, contendo ou não amianto."
-	},
-	{
-		"item": "24.0.",
-		"cest": "10.024.00",
-		"ncms": [
-			"6811"
-		],
-		"descricao": "Caixas d’água, tanques e reservatórios e suas tampas, telhas, calhas, cumeeiras e afins, de fibrocimento, cimento-celulose ou semelhantes, contendo ou não amianto, exceto os descritos no CEST 10.023.00"
 	},
 	{
 		"item": "25.0",
@@ -2895,15 +2561,6 @@
 		"descricao": "Outros vergalhões"
 	},
 	{
-		"item": "43.0",
-		"cest": "10.043.00",
-		"ncms": [
-			"7213",
-			"7308.90.10"
-		],
-		"descricao": "Outros vergalhões"
-	},
-	{
 		"item": "44.0",
 		"cest": "10.044.00",
 		"ncms": [
@@ -3032,14 +2689,6 @@
 			"7318"
 		],
 		"descricao": "Parafusos, pinos ou pernos, roscados, porcas, tira-fundos, ganchos roscados, rebites, chavetas, contrapinos ou troços, arruelas (anilhas) (incluindo as de pressão) e artigos semelhantes, de ferro fundido, ferro ou aço"
-	},
-	{
-		"item": "58.0",
-		"cest": "10.058.00",
-		"ncms": [
-			"7318"
-		],
-		"descricao": "Parafusos, pinos ou pernos, roscados, porcas, tira-fundos, ganchos roscados, rebites, chavetas, cavilhas, contrapinos, arruelas (incluídas as de pressão) e artefatos semelhantes, de ferro fundido, ferro ou aço"
 	},
 	{
 		"item": "59.0",
@@ -3238,18 +2887,6 @@
 		"descricao": "Água sanitária, branqueador e outros alvejantes"
 	},
 	{
-		"item": "1.0",
-		"cest": "11.001.00",
-		"ncms": [
-			"2828.90.11",
-			"2828.90.19",
-			"3206.41.00",
-			"3402.20.00",
-			"3808.94.19"
-		],
-		"descricao": "Água sanitária, branqueador e outros alvejantes"
-	},
-	{
 		"item": "2.0",
 		"cest": "11.002.00",
 		"ncms": [
@@ -3257,23 +2894,6 @@
 			"3808.94.19"
 		],
 		"descricao": "Sabões, desinfetantes e sanitizantes, todos em pó, flocos, palhetas, grânulos ou outras formas semelhantes, para lavar roupas"
-	},
-	{
-		"item": "2.0",
-		"cest": "11.002.00",
-		"ncms": [
-			"3401.20.90",
-			"3808.94.19"
-		],
-		"descricao": "Sabões em pó, flocos, palhetas, grânulos ou outras formas semelhantes, para lavar roupas, inclusive adicionados de propriedades desinfetantes ou sanitizantes."
-	},
-	{
-		"item": "2.0",
-		"cest": "11.002.00",
-		"ncms": [
-			"3401.20.90"
-		],
-		"descricao": "Sabões em pó, flocos, palhetas, grânulos ou outras formas semelhantes, para lavar roupas"
 	},
 	{
 		"item": "3.0",
@@ -3285,54 +2905,12 @@
 		"descricao": "Sabões, desinfetantes e sanitizantes, todos líquidos para lavar roupas"
 	},
 	{
-		"item": "3.0",
-		"cest": "11.003.00",
-		"ncms": [
-			"3401.20.90",
-			"3808.94.19"
-		],
-		"descricao": "Sabões líquidos para lavar roupas, inclusive adicionados de propriedades desinfetantes ou sanitizantes."
-	},
-	{
-		"item": "3.0",
-		"cest": "11.003.00",
-		"ncms": [
-			"3401.20.90"
-		],
-		"descricao": "Sabões líquidos para lavar roupas"
-	},
-	{
 		"item": "4.0",
 		"cest": "11.004.00",
 		"ncms": [
 			"3402.50.00"
 		],
 		"descricao": "Detergentes em pó, flocos, palhetas, grânulos ou outras formas semelhantes, inclusive adicionados de propriedades desinfetantes ou sanitizantes."
-	},
-	{
-		"item": "4.0",
-		"cest": "11.004.00",
-		"ncms": [
-			"3402.20.00"
-		],
-		"descricao": "Detergentes em pó, flocos, palhetas, grânulos ou outras formas semelhantes, inclusive adicionados de propriedades desinfetantes ou sanitizantes."
-	},
-	{
-		"item": "4.0",
-		"cest": "11.004.00",
-		"ncms": [
-			"3402.20.00",
-			"3808.94.19"
-		],
-		"descricao": "Detergentes em pó, flocos, palhetas, grânulos ou outras formas semelhantes, inclusive adicionados de propriedades desinfetantes ou sanitizantes."
-	},
-	{
-		"item": "4.0",
-		"cest": "11.004.00",
-		"ncms": [
-			"3402.20.00"
-		],
-		"descricao": "Detergentes em pó, flocos, palhetas, grânulos ou outras formas semelhantes"
 	},
 	{
 		"item": "5.0",
@@ -3343,45 +2921,12 @@
 		"descricao": "Detergentes líquidos, exceto para lavar roupa"
 	},
 	{
-		"item": "5.0",
-		"cest": "11.005.00",
-		"ncms": [
-			"3402.20.00"
-		],
-		"descricao": "Detergentes líquidos, exceto para lavar roupa"
-	},
-	{
 		"item": "6.0",
 		"cest": "11.006.00",
 		"ncms": [
 			"3402.50.00"
 		],
 		"descricao": "Detergente líquido para lavar roupa, inclusive adicionados de propriedades desinfetantes ou sanitizantes."
-	},
-	{
-		"item": "6.0",
-		"cest": "11.006.00",
-		"ncms": [
-			"3402.20.00"
-		],
-		"descricao": "Detergente líquido para lavar roupa, inclusive adicionados de propriedades desinfetantes ou sanitizantes."
-	},
-	{
-		"item": "6.0",
-		"cest": "11.006.00",
-		"ncms": [
-			"3402.20.00",
-			"3808.94.19"
-		],
-		"descricao": "Detergente líquido para lavar roupa, inclusive adicionados de propriedades desinfetantes ou sanitizantes."
-	},
-	{
-		"item": "6.0",
-		"cest": "11.006.00",
-		"ncms": [
-			"3402.20.00"
-		],
-		"descricao": "Detergente líquido para lavar roupa"
 	},
 	{
 		"item": "7.0",
@@ -3626,28 +3171,12 @@
 		"descricao": "Preparações químicas contraceptivas de referência, à base de hormônios, de outros produtos da posição 29.37 ou de espermicidas - positiva."
 	},
 	{
-		"item": "5.0",
-		"cest": "13.005.00",
-		"ncms": [
-			"3006.60.00"
-		],
-		"descricao": "Preparações químicas contraceptivas à base de hormônios, de outros produtos da posição 29.37 ou de espermicidas - positiva"
-	},
-	{
 		"item": "5.1",
 		"cest": "13.005.01",
 		"ncms": [
 			"3006.60.00"
 		],
 		"descricao": "Preparações químicas contraceptivas de referência, à base de hormônios, de outros produtos da posição 29.37 ou de espermicidas - negativa."
-	},
-	{
-		"item": "5.1",
-		"cest": "13.005.01",
-		"ncms": [
-			"3006.60.00"
-		],
-		"descricao": "Preparações químicas contraceptivas à base de hormônios, de outros produtos da posição 29.37 ou de espermicidas - negativa"
 	},
 	{
 		"item": "5.2",
@@ -3766,15 +3295,6 @@
 		"cest": "13.012.00",
 		"ncms": [
 			"4015.12.00",
-			"4015.19.00"
-		],
-		"descricao": "Luvas cirúrgicas e luvas de procedimento - neutra"
-	},
-	{
-		"item": "12.0",
-		"cest": "13.012.00",
-		"ncms": [
-			"4015.11.00",
 			"4015.19.00"
 		],
 		"descricao": "Luvas cirúrgicas e luvas de procedimento - neutra"
@@ -4033,63 +3553,12 @@
 		"descricao": "Chocolate branco, coberturas de chocolate branco e outros produtos de confeitaria com manteiga de cacau, em embalagens de conteúdo inferior ou igual a 1 kg, exceto os classificados nos CEST 17.005.00 e 17.008.00"
 	},
 	{
-		"item": "1.0",
-		"cest": "17.001.00",
-		"ncms": [
-			"1704.90.10"
-		],
-		"descricao": "Chocolate branco, em embalagens de conteúdo inferior ou igual a 1 kg, exceto os classificados nos CEST 17.005.00 e 17.008.00"
-	},
-	{
-		"item": "1.0",
-		"cest": "17.001.00",
-		"ncms": [
-			"1704.90.10",
-			"1704.90.90"
-		],
-		"descricao": "Chocolate branco, coberturas de chocolate branco e outros produtos de confeitaria com manteiga de cacau, em embalagens de conteúdo inferior ou igual a 1 kg, exceto os classificados nos CEST 17.005.00 e 17.008.00"
-	},
-	{
-		"item": "1",
-		"cest": "17.001.00",
-		"ncms": [
-			"1704.90.10"
-		],
-		"descricao": "Chocolate branco, em embalagens de conteúdo inferior ou igual a 1 kg, excluídos os ovos de páscoa de chocolate"
-	},
-	{
 		"item": "1.1",
 		"cest": "17.001.01",
 		"ncms": [
 			"1704.90.10"
 		],
 		"descricao": "Chocolate branco, em embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg, exceto os classificados no CEST 17.005.00"
-	},
-	{
-		"item": "1.1",
-		"cest": "17.001.01",
-		"ncms": [
-			"1704.90.10",
-			"1704.90.90"
-		],
-		"descricao": "Chocolate branco, coberturas de chocolate branco e outros produtos de confeitaria com manteiga de cacau, em embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg, exceto os classificados nos CEST 17.005.00 e 17.008.00"
-	},
-	{
-		"item": "1.1",
-		"cest": "17.001.01",
-		"ncms": [
-			"1704.90.10",
-			"1704.90.90"
-		],
-		"descricao": "Chocolate branco, coberturas de chocolate branco e outros produtos de confeitaria com manteiga de cacau, em embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg, exceto os classificados nos CEST 17.005.00 e 17.008.00"
-	},
-	{
-		"item": "1.1",
-		"cest": "17.001.01",
-		"ncms": [
-			"1704.90.10"
-		],
-		"descricao": "Chocolate branco, em embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg, exceto os classificados nos CEST 17.005.00 e 17.008.00"
 	},
 	{
 		"item": "1.1",
@@ -4109,15 +3578,6 @@
 		"descricao": "Coberturas de chocolate branco e outros produtos de confeitaria com manteiga de cacau, em embalagens de conteúdo inferior ou igual a 1 kg, exceto os classificados no CEST 17.008.00"
 	},
 	{
-		"item": "1.2",
-		"cest": "17.001.02",
-		"ncms": [
-			"1704.90.10",
-			"1704.90.90"
-		],
-		"descricao": "Coberturas de chocolate branco e outros produtos de confeitaria com manteiga de cacau, em embalagens de conteúdo inferior ou igual a 1 kg, exceto os classificados nos CEST 17.005.00 e 17.008.00"
-	},
-	{
 		"item": "1.3",
 		"cest": "17.001.03",
 		"ncms": [
@@ -4126,15 +3586,6 @@
 		"descricao": "Coberturas de chocolate branco e outros produtos de confeitaria com manteiga de cacau, em embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg, exceto os classificados no CEST 17.008.00"
 	},
 	{
-		"item": "1.3",
-		"cest": "17.001.03",
-		"ncms": [
-			"1704.90.10",
-			"1704.90.90"
-		],
-		"descricao": "Coberturas de chocolate branco e outros produtos de confeitaria com manteiga de cacau, em embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg, exceto os classificados nos CEST 17.005.00 e 17.008.00"
-	},
-	{
 		"item": "2.0",
 		"cest": "17.002.00",
 		"ncms": [
@@ -4150,42 +3601,6 @@
 			"1806.31.20"
 		],
 		"descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 1 kg"
-	},
-	{
-		"item": "2.0",
-		"cest": "17.002.00",
-		"ncms": [
-			"1806.31.10",
-			"1806.31.20"
-		],
-		"descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 1 kg"
-	},
-	{
-		"item": "2.0",
-		"cest": "17.002.00",
-		"ncms": [
-			"1806.31.10",
-			"1806.31.20"
-		],
-		"descricao": "Chocolates, em tabletes, barras ou paus, recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 1 kg"
-	},
-	{
-		"item": "2.0",
-		"cest": "17.002.00",
-		"ncms": [
-			"1806.31.10",
-			"1806.31.20"
-		],
-		"descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 1 kg"
-	},
-	{
-		"item": "2",
-		"cest": "17.002.00",
-		"ncms": [
-			"1806.31.10",
-			"1806.31.20"
-		],
-		"descricao": "Chocolates contendo cacau, em embalagens de conteúdo inferior ou igual a 1 kg"
 	},
 	{
 		"item": "2.1",
@@ -4214,36 +3629,9 @@
 		"descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, recheados, em recipientes ou embalagens imediatas de conteúdo superior a 1 kg e inferior ou igual a 2 kg"
 	},
 	{
-		"item": "2.1",
-		"cest": "17.002.01",
-		"ncms": [
-			"1806.31.10",
-			"1806.31.20"
-		],
-		"descricao": "Chocolates, em tabletes, barras ou paus, recheados, em recipientes ou embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg"
-	},
-	{
-		"item": "2.1",
-		"cest": "17.002.01",
-		"ncms": [
-			"1806.31.10",
-			"1806.31.20"
-		],
-		"descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, recheados, em recipientes ou embalagens imediatas de conteúdo superior a 1 kg e inferior ou igual a 2 kg"
-	},
-	{
 		"item": "2.2",
 		"cest": "17.002.02",
 		"ncms": [
-			"1806.31.20"
-		],
-		"descricao": "Outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 1 kg"
-	},
-	{
-		"item": "2.2",
-		"cest": "17.002.02",
-		"ncms": [
-			"1806.31.10",
 			"1806.31.20"
 		],
 		"descricao": "Outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 1 kg"
@@ -4283,54 +3671,9 @@
 		"descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, não recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 2 kg"
 	},
 	{
-		"item": "3.0",
-		"cest": "17.003.00",
-		"ncms": [
-			"1806.32.10",
-			"1806.32.20"
-		],
-		"descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, não recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 2 kg"
-	},
-	{
-		"item": "3.0",
-		"cest": "17.003.00",
-		"ncms": [
-			"1806.32.10",
-			"1806.32.20"
-		],
-		"descricao": "Chocolates, em tabletes, barras ou paus, não recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 2 kg"
-	},
-	{
-		"item": "3.0",
-		"cest": "17.003.00",
-		"ncms": [
-			"1806.32.10",
-			"1806.32.20"
-		],
-		"descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, não recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 2 kg"
-	},
-	{
-		"item": "3",
-		"cest": "17.003.00",
-		"ncms": [
-			"1806.32.10",
-			"1806.32.20"
-		],
-		"descricao": "Chocolate em barras, tabletes ou blocos ou no estado líquido, em pasta, em pó, grânulos ou formas semelhantes, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 2 kg"
-	},
-	{
 		"item": "3.1",
 		"cest": "17.003.01",
 		"ncms": [
-			"1806.32.20"
-		],
-		"descricao": "Outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, não recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 2 kg"
-	},
-	{
-		"item": "3.1",
-		"cest": "17.003.01",
-		"ncms": [
-			"1806.32.10",
 			"1806.32.20"
 		],
 		"descricao": "Outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, não recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 2 kg"
@@ -4342,30 +3685,6 @@
 			"1806.90.00"
 		],
 		"descricao": "Chocolates e outras preparações alimentícias contendo cacau, em embalagens de conteúdo inferior ou igual a 1 kg, exceto os classificados nos CEST 17.005.01, 17.006.00, 17.006.02 e 17.007.00"
-	},
-	{
-		"item": "4.0",
-		"cest": "17.004.00",
-		"ncms": [
-			"1806.90.00"
-		],
-		"descricao": "Chocolates e outras preparações alimentícias contendo cacau, em embalagens de conteúdo inferior ou igual a 1 kg, exceto os classificados nos CEST 17.005.01, 17.006.00, 17.006.02 e 17.007.00"
-	},
-	{
-		"item": "4",
-		"cest": "17.004.00",
-		"ncms": [
-			"1806.90.00"
-		],
-		"descricao": "Chocolates e outras preparações alimentícias contendo cacau, em embalagens de conteúdo inferior ou igual a 1 kg, excluídos os achocolatados em pó e ovos de páscoa de chocolate"
-	},
-	{
-		"item": "4.1",
-		"cest": "17.004.01",
-		"ncms": [
-			"1806.90.00"
-		],
-		"descricao": "Chocolates e outras preparações alimentícias contendo cacau, em embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg, exceto os classificados nos CEST 17.005.01, 17.006.00, 17.006.02 e 17.007.00"
 	},
 	{
 		"item": "4.1",
@@ -4615,28 +3934,12 @@
 		"descricao": "Iogurte e leite fermentado em recipiente de conteúdo inferior ou igual a 2 litros, exceto o item classificado no CEST 17.022.00"
 	},
 	{
-		"item": "21.0",
-		"cest": "17.021.00",
-		"ncms": [
-			"0403"
-		],
-		"descricao": "Iogurte e leite fermentado em recipiente de conteúdo inferior ou igual a 2 litros"
-	},
-	{
 		"item": "21.1",
 		"cest": "17.021.01",
 		"ncms": [
 			"0403"
 		],
 		"descricao": "Iogurte e leite fermentado em recipiente de conteúdo superior a 2 litros, exceto o item classificado no CEST 17.022.00"
-	},
-	{
-		"item": "21.1",
-		"cest": "17.021.01",
-		"ncms": [
-			"0403"
-		],
-		"descricao": "Iogurte e leite fermentado em recipiente de conteúdo superior a 2 litros"
 	},
 	{
 		"item": "22.0",
@@ -4715,14 +4018,6 @@
 		"cest": "17.024.05",
 		"ncms": [
 			"0406.10.90"
-		],
-		"descricao": "Queijo cremoso (“cream cheese”)"
-	},
-	{
-		"item": "24.5",
-		"cest": "17.024.05",
-		"ncms": [
-			"0406.90"
 		],
 		"descricao": "Queijo cremoso (“cream cheese”)"
 	},
@@ -4822,22 +4117,6 @@
 			"1905.90.90"
 		],
 		"descricao": "Salgadinhos diversos, exceto os classificados no CEST 17.031.01 e 17.031.02"
-	},
-	{
-		"item": "31.0",
-		"cest": "17.031.00",
-		"ncms": [
-			"1905.90.90"
-		],
-		"descricao": "Salgadinhos diversos, exceto os classificados no CEST 17.031.01"
-	},
-	{
-		"item": "31.0",
-		"cest": "17.031.00",
-		"ncms": [
-			"1905.90.90"
-		],
-		"descricao": "Salgadinhos diversos"
 	},
 	{
 		"item": "31.1",
@@ -5207,28 +4486,10 @@
 		"descricao": "Misturas e preparações para bolos, em embalagem inferior 5 kg"
 	},
 	{
-		"item": "46.0",
-		"cest": "17.046.00",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para bolos, em embalagem inferior 5 kg"
-	},
-	{
 		"item": "46.1",
 		"cest": "17.046.01",
 		"ncms": [
 			"1901.20",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para bolos, em embalagem igual a 5 kg"
-	},
-	{
-		"item": "46.1",
-		"cest": "17.046.01",
-		"ncms": [
-			"1901.20.00",
 			"1901.90.90"
 		],
 		"descricao": "Misturas e preparações para bolos, em embalagem igual a 5 kg"
@@ -5243,28 +4504,10 @@
 		"descricao": "Misturas e preparações para bolos, em embalagem superior a 5 kg e inferior ou igual a 25 Kg"
 	},
 	{
-		"item": "46.2",
-		"cest": "17.046.02",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para bolos, em embalagem superior a 5 kg e inferior ou igual a 25 Kg"
-	},
-	{
 		"item": "46.3",
 		"cest": "17.046.03",
 		"ncms": [
 			"1901.20",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para bolos, em embalagem superior a 25 kg e inferior ou igual a 50 Kg"
-	},
-	{
-		"item": "46.3",
-		"cest": "17.046.03",
-		"ncms": [
-			"1901.20.00",
 			"1901.90.90"
 		],
 		"descricao": "Misturas e preparações para bolos, em embalagem superior a 25 kg e inferior ou igual a 50 Kg"
@@ -5279,28 +4522,10 @@
 		"descricao": "Misturas e preparações para bolos, em embalagem superior a 50 Kg"
 	},
 	{
-		"item": "46.4",
-		"cest": "17.046.04",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para bolos, em embalagem superior a 50 Kg"
-	},
-	{
 		"item": "46.5",
 		"cest": "17.046.05",
 		"ncms": [
 			"1901.20",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem inferior a 5 kg"
-	},
-	{
-		"item": "46.5",
-		"cest": "17.046.05",
-		"ncms": [
-			"1901.20.00",
 			"1901.90.90"
 		],
 		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem inferior a 5 kg"
@@ -5315,28 +4540,10 @@
 		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem igual a 5 kg"
 	},
 	{
-		"item": "46.6",
-		"cest": "17.046.06",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem igual a 5 kg"
-	},
-	{
 		"item": "46.7",
 		"cest": "17.046.07",
 		"ncms": [
 			"1901.20",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem superior a 5 kg e inferior ou igual a 25 Kg"
-	},
-	{
-		"item": "46.7",
-		"cest": "17.046.07",
-		"ncms": [
-			"1901.20.00",
 			"1901.90.90"
 		],
 		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem superior a 5 kg e inferior ou igual a 25 Kg"
@@ -5351,28 +4558,10 @@
 		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem superior a 25 kg e inferior ou igual a 50 Kg"
 	},
 	{
-		"item": "46.8",
-		"cest": "17.046.08",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem superior a 25 kg e inferior ou igual a 50 Kg"
-	},
-	{
 		"item": "46.9",
 		"cest": "17.046.09",
 		"ncms": [
 			"1901.20",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem superior a 50 Kg"
-	},
-	{
-		"item": "46.9",
-		"cest": "17.046.09",
-		"ncms": [
-			"1901.20.00",
 			"1901.90.90"
 		],
 		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem superior a 50 Kg"
@@ -5387,28 +4576,10 @@
 		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem inferior a 5 kg"
 	},
 	{
-		"item": "46.10",
-		"cest": "17.046.10",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem inferior a 5 kg"
-	},
-	{
 		"item": "46.11",
 		"cest": "17.046.11",
 		"ncms": [
 			"1901.20",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem igual a 5 kg"
-	},
-	{
-		"item": "46.11",
-		"cest": "17.046.11",
-		"ncms": [
-			"1901.20.00",
 			"1901.90.90"
 		],
 		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem igual a 5 kg"
@@ -5423,28 +4594,10 @@
 		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem superior a 5 kg e inferior ou igual a 25 Kg"
 	},
 	{
-		"item": "46.12",
-		"cest": "17.046.12",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem superior a 5 kg e inferior ou igual a 25 Kg"
-	},
-	{
 		"item": "46.13",
 		"cest": "17.046.13",
 		"ncms": [
 			"1901.20",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem superior a 25 kg e inferior ou igual a 50 Kg"
-	},
-	{
-		"item": "46.13",
-		"cest": "17.046.13",
-		"ncms": [
-			"1901.20.00",
 			"1901.90.90"
 		],
 		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem superior a 25 kg e inferior ou igual a 50 Kg"
@@ -5459,15 +4612,6 @@
 		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem superior a 50 Kg"
 	},
 	{
-		"item": "46.14",
-		"cest": "17.046.14",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem superior a 50 Kg"
-	},
-	{
 		"item": "46.15",
 		"cest": "17.046.15",
 		"ncms": [
@@ -5477,37 +4621,10 @@
 		"descricao": "Misturas e pastas para a preparação de produtos de padaria, pastelaria e da indústria de bolachas e biscoitos, da posição 19.05, exceto os previstos nos CEST 17.046.00 a 17.046.14 e 17.046.16."
 	},
 	{
-		"item": "46.15",
-		"cest": "17.046.15",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e pastas para a preparação de produtos de padaria, pastelaria e da indústria de bolachas e biscoitos, da posição 19.05, exceto os previstos nos CEST 17.046.00 a 17.046.14 e 17.046.16."
-	},
-	{
-		"item": "46.15",
-		"cest": "17.046.15",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e pastas para a preparação de produtos de padaria, pastelaria e da indústria de bolachas e biscoitos, da posição 19.05, exceto os previstos nos CEST 17.046.00 a 17.046.14 e 17.109.00"
-	},
-	{
 		"item": "46.16",
 		"cest": "17.046.16",
 		"ncms": [
 			"1901.20",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações com, no mínimo, 80% de farinha de trigo na sua composição final, exceto as descritas nos CEST 17.046.10 a 17.046.15."
-	},
-	{
-		"item": "46.16",
-		"cest": "17.046.16",
-		"ncms": [
-			"1901.20.00",
 			"1901.90.90"
 		],
 		"descricao": "Misturas e preparações com, no mínimo, 80% de farinha de trigo na sua composição final, exceto as descritas nos CEST 17.046.10 a 17.046.15."
@@ -5519,14 +4636,6 @@
 			"1902.30.00"
 		],
 		"descricao": "Massas alimentícias tipo instantânea, exceto as descritas no CEST 17047.01."
-	},
-	{
-		"item": "47.0",
-		"cest": "17.047.00",
-		"ncms": [
-			"1902.30.00"
-		],
-		"descricao": "Massas alimentícias tipo instantânea"
 	},
 	{
 		"item": "47.1",
@@ -5569,44 +4678,12 @@
 		"descricao": "Massas alimentícias do tipo comum, não cozidas, nem recheadas, nem preparadas de outro modo, não derivadas do trigo"
 	},
 	{
-		"item": "49.0",
-		"cest": "17.049.00",
-		"ncms": [
-			"1902.1"
-		],
-		"descricao": "Massas alimentícias do tipo comum, não cozidas, nem recheadas, nem preparadas de outro modo, exceto as descritas nos CEST 17.049.03 e 17.049.06"
-	},
-	{
 		"item": "49.1",
 		"cest": "17.049.01",
 		"ncms": [
 			"1902.1"
 		],
 		"descricao": "Massas alimentícias do tipo sêmola, não cozidas, nem recheadas, nem preparadas de outro modo, não derivadas do trigo"
-	},
-	{
-		"item": "49.1",
-		"cest": "17.049.01",
-		"ncms": [
-			"1902.1"
-		],
-		"descricao": "Massas alimentícias do tipo sêmola, não cozidas, nem recheadas, nem preparadas de outro modo, exceto as descritas nos CEST 17.049.04 e 17.049.07"
-	},
-	{
-		"item": "49.0",
-		"cest": "17.049.00",
-		"ncms": [
-			"1902.1"
-		],
-		"descricao": "Massas alimentícias do tipo comum, não cozidas, nem recheadas, nem preparadas de outro modo, exceto a descrita no CEST 17.049.03"
-	},
-	{
-		"item": "49.1",
-		"cest": "17.049.01",
-		"ncms": [
-			"1902.1"
-		],
-		"descricao": "Massas alimentícias do tipo sêmola, não cozidas, nem recheadas, nem preparadas de outro modo, exceto a descrita no CEST 17.049.04"
 	},
 	{
 		"item": "49.2",
@@ -5655,102 +4732,6 @@
 			"1902.11.00"
 		],
 		"descricao": "Massas alimentícias do tipo sêmola, não cozidas, nem recheadas, nem preparadas de outro modo, que contenham ovos, derivadas do trigo"
-	},
-	{
-		"item": "49.2",
-		"cest": "17.049.02",
-		"ncms": [
-			"1902.1"
-		],
-		"descricao": "Massas alimentícias do tipo granoduro, não cozidas, nem recheadas, nem preparadas de outro modo, exceto a descrita no CEST 17.049.05"
-	},
-	{
-		"item": "49.3",
-		"cest": "17.049.03",
-		"ncms": [
-			"1902.19.00"
-		],
-		"descricao": "Massas alimentícias do tipo comum, não cozidas, nem recheadas, nem preparadas de outro modo, que não contenham ovos, derivadas de farinha de trigo, exceto as descritas no CEST17.049.08"
-	},
-	{
-		"item": "49.4",
-		"cest": "17.049.04",
-		"ncms": [
-			"1902.19.00"
-		],
-		"descricao": "Massas alimentícias do tipo sêmola, não cozidas, nem recheadas, nem preparadas de outro modo, que não contenham ovos, derivadas de farinha de trigo, exceto as descritas no CEST 17.049.09"
-	},
-	{
-		"item": "49.3",
-		"cest": "17.049.03",
-		"ncms": [
-			"1902.19.00"
-		],
-		"descricao": "Massas alimentícias do tipo comum, não cozidas, nem recheadas, nem preparadas de outro modo, que não contenham ovos"
-	},
-	{
-		"item": "49.4",
-		"cest": "17.049.04",
-		"ncms": [
-			"1902.19.00"
-		],
-		"descricao": "Massas alimentícias do tipo sêmola, não cozidas, nem recheadas, nem preparadas de outro modo, que não contenham ovos"
-	},
-	{
-		"item": "49.5",
-		"cest": "17.049.05",
-		"ncms": [
-			"1902.19.00"
-		],
-		"descricao": "Massas alimentícias do tipo granoduro, não cozidas, nem recheadas, nem preparadas de outro modo, que não contenham ovos"
-	},
-	{
-		"item": "49.6",
-		"cest": "17.049.06",
-		"ncms": [
-			"1902.1"
-		],
-		"descricao": "Massas alimentícias do tipo comum, não cozidas, nem recheadas, nem preparadas de outro modo, exceto a descrita no CEST 17.049.03, derivadas de farinha de trigo"
-	},
-	{
-		"item": "49.7",
-		"cest": "17.049.07",
-		"ncms": [
-			"1902.1"
-		],
-		"descricao": "Massas alimentícias do tipo sêmola, não cozidas, nem recheadas, nem preparadas de outro modo, exceto a descrita no CEST 17.049.04, derivadas de farinha de trigo"
-	},
-	{
-		"item": "49.8",
-		"cest": "REVOGADO",
-		"ncms": [
-			""
-		],
-		"descricao": ""
-	},
-	{
-		"item": "49.9",
-		"cest": "REVOGADO",
-		"ncms": [
-			""
-		],
-		"descricao": ""
-	},
-	{
-		"item": "49.8",
-		"cest": "17.049.08",
-		"ncms": [
-			"1902.19.00"
-		],
-		"descricao": "Massas alimentícias do tipo comum, não cozidas, nem recheadas, nem preparadas de outro modo, que não contenham ovos, derivadas de farinha de trigo"
-	},
-	{
-		"item": "49.9",
-		"cest": "17.049.09",
-		"ncms": [
-			"1902.19.00"
-		],
-		"descricao": "Massas alimentícias do tipo sêmola, não cozidas, nem recheadas, nem preparadas de outro modo, que não contenham ovos, derivadas de farinha de trigo"
 	},
 	{
 		"item": "50.0",
@@ -5978,14 +4959,6 @@
 		"descricao": "Outros óleos e respectivas frações, obtidos exclusivamente a partir de azeitonas, mesmo refinados, mas não quimicamente modificados, e misturas desses óleos ou frações com óleos ou frações da posição 15.09, em recipientes com capacidade inferior ou igual a 5 litros, exceto as embalagens individuais de conteúdo inferior ou igual a 15 mililitros"
 	},
 	{
-		"item": "68.0",
-		"cest": "17.068.00",
-		"ncms": [
-			"1510.00.00"
-		],
-		"descricao": "Outros óleos e respectivas frações, obtidos exclusivamente a partir de azeitonas, mesmo refinados, mas não quimicamente modificados, e misturas desses óleos ou frações com óleos ou frações da posição 15.09, em recipientes com capacidade inferior ou igual a 5 litros, exceto as embalagens individuais de conteúdo inferior ou igual a 15 mililitros"
-	},
-	{
 		"item": "69.0",
 		"cest": "17.069.00",
 		"ncms": [
@@ -6191,16 +5164,6 @@
 			"1502"
 		],
 		"descricao": "Carne de gado bovino, ovino e bufalino e produtos comestíveis resultantes da matança desse gado submetidos à salga, secagem ou desidratação, exceto os descritos no CEST 17.083.01"
-	},
-	{
-		"item": "83.0",
-		"cest": "17.083.00",
-		"ncms": [
-			"0210.20.00",
-			"0210.99.00",
-			"1502"
-		],
-		"descricao": "Carne de gado bovino, ovino e bufalino e produtos comestíveis resultantes da matança desse gado submetidos à salga, secagem ou desidratação"
 	},
 	{
 		"item": "83.1",
@@ -6718,14 +5681,6 @@
 		"descricao": "Néctares de frutas e outras bebidas não alcoólicas prontas para beber, exceto bebidas hidroeletrolíticas e energéticos"
 	},
 	{
-		"item": "112.0",
-		"cest": "17.112.00",
-		"ncms": [
-			"2202.99.00"
-		],
-		"descricao": "Néctares de frutas e outras bebidas não alcoólicas prontas para beber, exceto isotônicos e energéticos"
-	},
-	{
 		"item": "113.0",
 		"cest": "17.113.00",
 		"ncms": [
@@ -6758,14 +5713,6 @@
 			"009.09"
 		],
 		"descricao": "Sementes de anis (erva-doce), badiana (anis-estrelado), funcho, coentro, cominho ou alcaravia; bagas de zimbro; fruta seca, misturas de fruta seca ou de fruta de casa rija; quando acondicionadas em saquinhos, especialmente, para a preparação de infusões ou de tisanas (“chás”)"
-	},
-	{
-		"item": "117.0",
-		"cest": "17.117.00",
-		"ncms": [
-			"1806.20.00"
-		],
-		"descricao": "Outras preparações em blocos ou em barras, com peso superior a 2kg, ou no estado líquido, em pasta, em pó, grânulos ou formas semelhantes, em recipientes ou embalagens imediatas de conteúdo superior a 2kg"
 	},
 	{
 		"item": "117.0",
@@ -6870,16 +5817,6 @@
 			"4802.58.9"
 		],
 		"descricao": "Cartolina escolar e papel cartão, brancos e coloridos, cortados em folhas em que um lado seja inferior ou igual a 500 mm e o outro inferior ou igual a 700 mm, quando não dobradas, e peso igual ou superior a 120g/m²; recados autoadesivos (LP note); papéis de presente; todos cortados em tamanho pronto para uso escolar e doméstico"
-	},
-	{
-		"item": "10.0",
-		"cest": "19.010.00",
-		"ncms": [
-			"4802.56.9",
-			"4802.57.9",
-			"4802.58.9"
-		],
-		"descricao": "Cartolina escolar e papel cartão, brancos e coloridos; recados auto adesivos (LP note); papéis de presente, todos cortados em tamanho pronto para uso escolar e doméstico"
 	},
 	{
 		"item": "11.0",
@@ -7376,14 +6313,6 @@
 		"descricao": "Sabões de toucador em barras, pedaços ou figuras moldados, exceto CEST 20.034.01"
 	},
 	{
-		"item": "34.0",
-		"cest": "20.034.00",
-		"ncms": [
-			"3401.11.90"
-		],
-		"descricao": "Sabões de toucador em barras, pedaços ou figuras moldados"
-	},
-	{
 		"item": "34.1",
 		"cest": "20.034.01",
 		"ncms": [
@@ -7398,14 +6327,6 @@
 			"3401.19.00"
 		],
 		"descricao": "Outros sabões, produtos e preparações, em barras, pedaços ou figuras moldados"
-	},
-	{
-		"item": "35.1",
-		"cest": "20.035.01",
-		"ncms": [
-			"3401.19.00"
-		],
-		"descricao": "Lenços umedecidos"
 	},
 	{
 		"item": "36.0",
@@ -7643,18 +6564,6 @@
 			"3924.90.00",
 			"4014.90.90",
 			"7013"
-		],
-		"descricao": "Mamadeiras"
-	},
-	{
-		"item": "63.0",
-		"cest": "20.063.00",
-		"ncms": [
-			"3923.30.00",
-			"3924.90.00",
-			"3924.10.00",
-			"4014.90.90",
-			"7010.20.00"
 		],
 		"descricao": "Mamadeiras"
 	},
@@ -8104,14 +7013,6 @@
 		"descricao": "Telefones inteligentes (“smartphones”) e para redes celulares, excetos por satélite, os de uso automotivo e os classificados nos CEST 21.053.01"
 	},
 	{
-		"item": "53.0",
-		"cest": "21.053.00",
-		"ncms": [
-			"8517.12.3"
-		],
-		"descricao": "Telefones para redes celulares, exceto por satélite, os de uso automotivo e os classificados no CEST 21.053.01"
-	},
-	{
 		"item": "53.1",
 		"cest": "21.053.01",
 		"ncms": [
@@ -8119,14 +7020,6 @@
 			"8517.14.31"
 		],
 		"descricao": "Telefones inteligentes (“smartphones”) e para redes celulares portáteis, excetos por satélite"
-	},
-	{
-		"item": "53.1",
-		"cest": "21.053.01",
-		"ncms": [
-			"8517.12.31"
-		],
-		"descricao": "Telefones para redes celulares portáteis, exceto por satélite"
 	},
 	{
 		"item": "54.0",
@@ -8137,26 +7030,10 @@
 		"descricao": "Outros telefones para outras redes sem fio, excetos os de uso automotivo e os classificados nos CEST 21.053.00 e 21.053.01"
 	},
 	{
-		"item": "54.0",
-		"cest": "21.054.00",
-		"ncms": [
-			"8517.12"
-		],
-		"descricao": "Outros telefones para outras redes sem fio, exceto para redes de celulares e os de uso automotivo"
-	},
-	{
 		"item": "55.0",
 		"cest": "21.055.00",
 		"ncms": [
 			"8517.18.30"
-		],
-		"descricao": "Outros aparelhos telefônicos não combinados com outros aparelhos"
-	},
-	{
-		"item": "55.0",
-		"cest": "21.055.00",
-		"ncms": [
-			"8517.18.91"
 		],
 		"descricao": "Outros aparelhos telefônicos não combinados com outros aparelhos"
 	},
@@ -8169,28 +7046,12 @@
 		"descricao": "Outros aparelhos telefônicos"
 	},
 	{
-		"item": "55.1",
-		"cest": "21.055.01",
-		"ncms": [
-			"8517.18.99"
-		],
-		"descricao": "Outros aparelhos telefônicos"
-	},
-	{
 		"item": "56.0",
 		"cest": "21.056.00",
 		"ncms": [
 			"8517.62.59"
 		],
 		"descricao": "Outros aparelhos para transmissão ou recepção de voz, imagem ou outros dados em rede com fio."
-	},
-	{
-		"item": "56.0",
-		"cest": "21.056.00",
-		"ncms": [
-			"8517.62.5"
-		],
-		"descricao": "Aparelhos para transmissão ou recepção de voz, imagem ou outros dados em rede com fio, exceto os classificados nos códigos 8517.62.51, 8517.62.52 e 8517.62.53"
 	},
 	{
 		"item": "56.1",
@@ -8260,34 +7121,10 @@
 		"descricao": "Cartões inteligentes (\"smartcards\"), exceto o item classificado no CEST 21.064.00"
 	},
 	{
-		"item": "63.0",
-		"cest": "21.063.00",
-		"ncms": [
-			"8523.52.00"
-		],
-		"descricao": "Cartões inteligentes (\"smartcards\"), exceto o item classificado no CEST 21.064.00"
-	},
-	{
-		"item": "63.0",
-		"cest": "21.063.00",
-		"ncms": [
-			"8523.52.00"
-		],
-		"descricao": "Cartões inteligentes (\"smartcards\")"
-	},
-	{
 		"item": "64.0",
 		"cest": "21.064.00",
 		"ncms": [
 			"8523.52"
-		],
-		"descricao": "Cartões inteligentes (\"sim cards\")"
-	},
-	{
-		"item": "64.0",
-		"cest": "21.064.00",
-		"ncms": [
-			"8523.52.00"
 		],
 		"descricao": "Cartões inteligentes (\"sim cards\")"
 	},
@@ -8298,14 +7135,6 @@
 			"8525.89.2"
 		],
 		"descricao": "Câmeras fotográficas digitais e câmeras de vídeo"
-	},
-	{
-		"item": "65.0",
-		"cest": "21.065.00",
-		"ncms": [
-			"8525.80.2"
-		],
-		"descricao": "Câmeras fotográficas digitais e câmeras de vídeo e suas partes"
 	},
 	{
 		"item": "66.0",
@@ -8326,16 +7155,6 @@
 		"descricao": "Monitores e projetores que não incorporem aparelhos receptores de televisão, policromáticos"
 	},
 	{
-		"item": "67.0",
-		"cest": "21.067.00",
-		"ncms": [
-			"8528.49.29",
-			"8528.59.20",
-			"8528.69"
-		],
-		"descricao": "Monitores e projetores que não incorporem aparelhos receptores de televisão, policromáticos"
-	},
-	{
 		"item": "67.1",
 		"cest": "21.067.01",
 		"ncms": [
@@ -8348,14 +7167,6 @@
 		"cest": "21.068.00",
 		"ncms": [
 			"8528.52.00"
-		],
-		"descricao": "Outros monitores capazes de serem conectados diretamente a uma máquina automática para processamento de dados da posição 84.71 e concebidos para serem utilizados com esta máquina, policromáticos"
-	},
-	{
-		"item": "68.0",
-		"cest": "21.068.00",
-		"ncms": [
-			"8528.52.20"
 		],
 		"descricao": "Outros monitores capazes de serem conectados diretamente a uma máquina automática para processamento de dados da posição 84.71 e concebidos para serem utilizados com esta máquina, policromáticos"
 	},
@@ -8464,14 +7275,6 @@
 		"descricao": "Centrais automáticas privadas, de capacidade inferior ou igual a 25 ramais"
 	},
 	{
-		"item": "81.0",
-		"cest": "21.081.00",
-		"ncms": [
-			"8517.62.22"
-		],
-		"descricao": "Centrais automáticas privadas, de capacidade inferior ou igual a 25 ramais"
-	},
-	{
 		"item": "82.0",
 		"cest": "21.082.00",
 		"ncms": [
@@ -8496,14 +7299,6 @@
 		"descricao": "Aparelhos emissores com receptor incorporado de tecnologia celular"
 	},
 	{
-		"item": "84.0",
-		"cest": "21.084.00",
-		"ncms": [
-			"8517.62.62"
-		],
-		"descricao": "Aparelhos emissores com receptor incorporado de sistema troncalizado (“trunking”), de tecnologia celular"
-	},
-	{
 		"item": "85.0",
 		"cest": "21.085.00",
 		"ncms": [
@@ -8516,14 +7311,6 @@
 		"cest": "21.086.00",
 		"ncms": [
 			"8517.71.10"
-		],
-		"descricao": "Antenas próprias para telefones celulares portáteis, exceto as telescópicas"
-	},
-	{
-		"item": "86.0",
-		"cest": "21.086.00",
-		"ncms": [
-			"8517.70.21"
 		],
 		"descricao": "Antenas próprias para telefones celulares portáteis, exceto as telescópicas"
 	},
@@ -8543,14 +7330,6 @@
 			"8414.5"
 		],
 		"descricao": "Ventiladores, exceto os de uso agrícola e do CEST 21.088.01"
-	},
-	{
-		"item": "88.0",
-		"cest": "21.088.00",
-		"ncms": [
-			"8414.5"
-		],
-		"descricao": "Ventiladores, exceto os de uso agrícola"
 	},
 	{
 		"item": "88.1",
@@ -8724,14 +7503,6 @@
 		"descricao": "Câmeras de televisão"
 	},
 	{
-		"item": "107.0",
-		"cest": "21.107.00",
-		"ncms": [
-			"8525.80.19"
-		],
-		"descricao": "Câmeras de televisão e suas partes"
-	},
-	{
 		"item": "108.0",
 		"cest": "21.108.00",
 		"ncms": [
@@ -8814,16 +7585,6 @@
 		"descricao": "Diodos emissores de luz (LED), exceto diodos “laser”"
 	},
 	{
-		"item": "117.0",
-		"cest": "21.117.00",
-		"ncms": [
-			"8541.40.11",
-			"8541.40.21",
-			"8541.40.22"
-		],
-		"descricao": "Diodos emissores de luz (LED), exceto diodos “laser”"
-	},
-	{
 		"item": "118.0",
 		"cest": "21.118.00",
 		"ncms": [
@@ -8873,28 +7634,10 @@
 		"descricao": "Lustres e outros aparelhos elétricos de iluminação, próprios para serem suspensos ou fixados no teto ou na parede, exceto os dos tipos utilizados na iluminação pública; e suas partes"
 	},
 	{
-		"item": "123",
-		"cest": "21.123.00",
-		"ncms": [
-			"9405.10",
-			"9405.9"
-		],
-		"descricao": "Lustres e outros aparelhos elétricos de iluminação, próprios para serem suspensos ou fixados no teto ou na parede, exceto os dos tipos utilizados na iluminação pública; e suas partes"
-	},
-	{
 		"item": "124.0",
 		"cest": "21.124.00",
 		"ncms": [
 			"9405.2",
-			"9405.9"
-		],
-		"descricao": "Abajures de cabeceiras, de escritório e lampadários de interior, elétricos e suas partes"
-	},
-	{
-		"item": "124",
-		"cest": "21.124.00",
-		"ncms": [
-			"9405.20.00",
 			"9405.9"
 		],
 		"descricao": "Abajures de cabeceiras, de escritório e lampadários de interior, elétricos e suas partes"
@@ -8907,15 +7650,6 @@
 			"9405.9"
 		],
 		"descricao": "Outras luminárias e aparelhos de iluminação, elétricos, e suas partes"
-	},
-	{
-		"item": "125",
-		"cest": "21.125.00",
-		"ncms": [
-			"9405.40",
-			"9405.9"
-		],
-		"descricao": "Outros aparelhos elétricos de iluminação e suas partes"
 	},
 	{
 		"item": "126",
@@ -8953,16 +7687,6 @@
 		"descricao": "Preparados para fabricação de sorvete em máquina"
 	},
 	{
-		"item": "2.0",
-		"cest": "23.002.00",
-		"ncms": [
-			"1806",
-			"1901",
-			"2106"
-		],
-		"descricao": "Preparados para fabricação de sorvete em máquina"
-	},
-	{
 		"item": "1.0",
 		"cest": "24.001.00",
 		"ncms": [
@@ -8983,26 +7707,6 @@
 		"descricao": "Xadrez e pós assemelhados, em embalagem de conteúdo inferior ou igual a 1 kg, exceto pigmentos à base de dióxido de titânio classificados no código NCM 3206.11.10"
 	},
 	{
-		"item": "2.0",
-		"cest": "24.002.00",
-		"ncms": [
-			"2821",
-			"3204.17.00",
-			"3206"
-		],
-		"descricao": "Xadrez e pós assemelhados, em embalagem de conteúdo inferior ou igual a 1 kg, exceto pigmentos à base de dióxido de titânio classificados no código 3206.11.19"
-	},
-	{
-		"item": "2.0",
-		"cest": "24.002.00",
-		"ncms": [
-			"2821",
-			"3204.17.00",
-			"3206"
-		],
-		"descricao": "Xadrez e pós assemelhados, exceto pigmentos à base de dióxido de titânio classificados no código 3206.11.19"
-	},
-	{
 		"item": "2.1",
 		"cest": "24.002.01",
 		"ncms": [
@@ -9011,16 +7715,6 @@
 			"3206"
 		],
 		"descricao": "Xadrez e pós assemelhados, em embalagem de conteúdo superior a 1 kg, exceto pigmentos à base de dióxido de titânio classificados no código NCM 3206.11.10"
-	},
-	{
-		"item": "2.1",
-		"cest": "24.002.01",
-		"ncms": [
-			"2821",
-			"3204.17.00",
-			"3206"
-		],
-		"descricao": "Xadrez e pós assemelhados, em embalagem de conteúdo superior a 1 kg, exceto pigmentos à base de dióxido de titânio classificados no código NCM 3206.11.19"
 	},
 	{
 		"item": "3.0",
@@ -9290,14 +7984,6 @@
 		"descricao": "Motocicletas (incluídos os ciclomotores) e outros ciclos equipados com motor auxiliar, mesmo com carro lateral, exceto os classificados no CEST 26.001.01; carros laterais."
 	},
 	{
-		"item": "1.0",
-		"cest": "26.001.00",
-		"ncms": [
-			"8711"
-		],
-		"descricao": "Motocicletas (incluídos os ciclomotores) e outros ciclos equipados com motor auxiliar, mesmo com carro lateral; carros laterais"
-	},
-	{
 		"item": "1.1",
 		"cest": "26.001.01",
 		"ncms": [
@@ -9434,14 +8120,6 @@
 		"descricao": "Desodorantes (desodorizantes) corporais líquidos, exceto os classificados no CEST 28.016.01"
 	},
 	{
-		"item": "16.0",
-		"cest": "28.016.00",
-		"ncms": [
-			"3307.20.10"
-		],
-		"descricao": "Desodorantes corporais e antiperspirantes, líquidos"
-	},
-	{
 		"item": "16.1",
 		"cest": "28.016.01",
 		"ncms": [
@@ -9464,14 +8142,6 @@
 			"3307.20.90"
 		],
 		"descricao": "Outros desodorantes (desodorizantes) corporais, exceto os classificados no CEST 28.017.01"
-	},
-	{
-		"item": "17.0",
-		"cest": "28.017.00",
-		"ncms": [
-			"3307.20.90"
-		],
-		"descricao": "Outros desodorantes corporais e antiperspirantes"
 	},
 	{
 		"item": "17.1",
@@ -9512,14 +8182,6 @@
 			"3401.11.90"
 		],
 		"descricao": "Sabões de toucador em barras, pedaços ou figuras moldados, exceto CEST 28.020.01"
-	},
-	{
-		"item": "20.0",
-		"cest": "28.020.00",
-		"ncms": [
-			"3401.11.90"
-		],
-		"descricao": "Sabões de toucador, em barras, pedaços ou figuras moldadas"
 	},
 	{
 		"item": "20.1",
@@ -9674,18 +8336,6 @@
 			"3924.90.00",
 			"4014.90.90",
 			"7013"
-		],
-		"descricao": "Mamadeiras"
-	},
-	{
-		"item": "33.0",
-		"cest": "28.033.00",
-		"ncms": [
-			"3923.30.00",
-			"3924.90.00",
-			"3924.10.00",
-			"4014.90.90",
-			"7010.20.00"
 		],
 		"descricao": "Mamadeiras"
 	},
@@ -10028,68 +8678,12 @@
 		"descricao": "Outros produtos comercializados pelo sistema de marketing direto porta-a-porta a consumidor final não relacionados em outros itens deste anexo"
 	},
 	{
-		"item": "1.0",
-		"cest": "03.001.00",
-		"ncms": [
-			"2201.10.00"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "2.0",
-		"cest": "03.002.00",
-		"ncms": [
-			"2201.10.00"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "1.0",
-		"cest": "03.001.00",
-		"ncms": [
-			"2201.10.00"
-		],
-		"descricao": "Água mineral, gasosa ou não, ou potável, naturais, em garrafa de vidro, retornável ou não, com capacidade de até 500 ml"
-	},
-	{
-		"item": "2.0",
-		"cest": "03.002.00",
-		"ncms": [
-			"2201.10.00"
-		],
-		"descricao": "Água mineral, gasosa ou não, ou potável, naturais, em embalagem com capacidade igual ou superior a 5.000 ml; exceto as classificadas no CEST 03.024.00 e 03.025.00"
-	},
-	{
 		"item": "3.0",
 		"cest": "03.003.00",
 		"ncms": [
 			"2201.10.00"
 		],
 		"descricao": "Água mineral, gasosa ou não, ou potável, naturais, em embalagem de vidro descartável"
-	},
-	{
-		"item": "3.0",
-		"cest": "03.003.00",
-		"ncms": [
-			"2201.10.00"
-		],
-		"descricao": "Água mineral, gasosa ou não, ou potável, naturais, em embalagem de vidro, não retornável, com capacidade de até 300 ml"
-	},
-	{
-		"item": "4.0",
-		"cest": "03.004.00",
-		"ncms": [
-			"2201.10.00"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "4.0",
-		"cest": "03.004.00",
-		"ncms": [
-			"2201.10.00"
-		],
-		"descricao": "Água mineral, gasosa ou não, ou potável, naturais, em garrafa plástica de 1.500 ml"
 	},
 	{
 		"item": "5.0",
@@ -10100,28 +8694,12 @@
 		"descricao": "Água mineral, gasosa ou não, ou potável, naturais, em copo plástico descartável"
 	},
 	{
-		"item": "5.0",
-		"cest": "03.005.00",
-		"ncms": [
-			"2201.10.00"
-		],
-		"descricao": "Água mineral, gasosa ou não, ou potável, naturais, em copos plásticos e embalagem plástica com capacidade de até 500 ml"
-	},
-	{
 		"item": "6.0",
 		"cest": "03.006.00",
 		"ncms": [
 			"2201"
 		],
 		"descricao": "Outras águas minerais, gasosa ou não, ou potável, naturais; exceto as classificadas no CEST 03.003.00, 03.003.01, 03.005.00, 03.005.01 a 03.005.05, 03.024.00 e 03.025.00"
-	},
-	{
-		"item": "6.0",
-		"cest": "03.006.00",
-		"ncms": [
-			"2201.10.00"
-		],
-		"descricao": "Outras águas minerais, potáveis ou naturais, gasosas ou não, inclusive gaseificadas; exceto as classificadas no CEST 03.024.00 e 03.025.00"
 	},
 	{
 		"item": "7.0",
@@ -10132,28 +8710,12 @@
 		"descricao": "Água aromatizada artificialmente, exceto os refrescos e refrigerantes"
 	},
 	{
-		"item": "7.0",
-		"cest": "03.007.00",
-		"ncms": [
-			"2202.10.00"
-		],
-		"descricao": "Águas mineiras, potáveis ou naturais, gasosas ou não, inclusive gaseificadas ou aromatizadas artificialmente, exceto os refrescos e refrigerantes"
-	},
-	{
 		"item": "8.0",
 		"cest": "03.008.00",
 		"ncms": [
 			"2202.99.00"
 		],
 		"descricao": "Outras águas minerais, gasosa ou não, ou potável, naturais, inclusive gaseificadas ou aromatizadas artificialmente, exceto os refrescos e refrigerantes"
-	},
-	{
-		"item": "8.0",
-		"cest": "03.008.00",
-		"ncms": [
-			"2202.99.00"
-		],
-		"descricao": "Outras águas minerais, potáveis ou naturais, gasosas ou não, inclusive gaseificadas ou aromatizadas artificialmente"
 	},
 	{
 		"item": "9.0",
@@ -10173,14 +8735,6 @@
 		"descricao": "Refrigerante em vidro descartável"
 	},
 	{
-		"item": "10.0",
-		"cest": "03.011.00",
-		"ncms": [
-			"2202"
-		],
-		"descricao": "Demais refrigerantes"
-	},
-	{
 		"item": "11.0",
 		"cest": "03.011.00",
 		"ncms": [
@@ -10188,23 +8742,6 @@
 			"2202.99.00"
 		],
 		"descricao": "Demais refrigerantes, exceto os classificados no CEST 03.010.00, 03.010.01, 03.010.02 e 03.011.01"
-	},
-	{
-		"item": "11.0",
-		"cest": "03.011.00",
-		"ncms": [
-			"2202.10.00",
-			"2202.99.00"
-		],
-		"descricao": "Demais refrigerantes, exceto os classificados no CEST 03.010.00, 03.010.01, 03.010.02, 03.010.03 e 03.011.01"
-	},
-	{
-		"item": "11.0",
-		"cest": "03.012.00",
-		"ncms": [
-			"2106.90.10"
-		],
-		"descricao": "Xarope ou extrato concentrado destinados ao preparo de refrigerante em máquina “pré-mix” ou “post-mix”"
 	},
 	{
 		"item": "12.0",
@@ -10216,33 +8753,6 @@
 		"descricao": "Bebidas energéticas em lata"
 	},
 	{
-		"item": "12.0",
-		"cest": "03.013.00",
-		"ncms": [
-			"2106.90",
-			"2202.99.00"
-		],
-		"descricao": "Bebidas energéticas em embalagem com capacidade inferior a 600ml"
-	},
-	{
-		"item": "15.0",
-		"cest": "03.014.00",
-		"ncms": [
-			"2106.90",
-			"2202.99.00"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "15.0",
-		"cest": "03.014.00",
-		"ncms": [
-			"2106.90",
-			"2202.99.00"
-		],
-		"descricao": "Bebidas energéticas em embalagem com capacidade igual ou superior a 600ml"
-	},
-	{
 		"item": "16.0",
 		"cest": "03.015.00",
 		"ncms": [
@@ -10252,65 +8762,12 @@
 		"descricao": "Bebidas hidroeletrolíticas"
 	},
 	{
-		"item": "16.0",
-		"cest": "03.015.00",
-		"ncms": [
-			"2106.90",
-			"2202.99.00"
-		],
-		"descricao": "Bebidas hidroeletrolíticas em embalagem com capacidade inferior a 600ml"
-	},
-	{
-		"item": "16",
-		"cest": "03.015.00",
-		"ncms": [
-			"2106.90",
-			"2202.99.00"
-		],
-		"descricao": "Bebidas hidroeletrolíticas (isotônicos) em embalagem com capacidade inferior a 600ml"
-	},
-	{
-		"item": "17.0",
-		"cest": "03.016.00",
-		"ncms": [
-			"2106.90",
-			"2202.99.00"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "17.0",
-		"cest": "03.016.00",
-		"ncms": [
-			"2106.90",
-			"2202.99.00"
-		],
-		"descricao": "Bebidas hidroeletrolíticas em embalagem com capacidade igual ou superior a 600ml"
-	},
-	{
-		"item": "17",
-		"cest": "03.016.00",
-		"ncms": [
-			"2106.90",
-			"2202.99.00"
-		],
-		"descricao": "Bebidas hidroeletrolíticas (isotônicos) em embalagem com capacidade igual ou superior a 600ml"
-	},
-	{
 		"item": "18",
 		"cest": "03.022.00",
 		"ncms": [
 			"2202.91.00"
 		],
 		"descricao": "Cerveja sem álcool em garrafa de vidro retornável"
-	},
-	{
-		"item": "18",
-		"cest": "03.022.00",
-		"ncms": [
-			"2202.91.00"
-		],
-		"descricao": "Cerveja sem álcool"
 	},
 	{
 		"item": "19",
@@ -10335,14 +8792,6 @@
 			"2202.99.00"
 		],
 		"descricao": "Néctares de frutas e outras bebidas não alcoólicas prontas para beber, exceto bebidas hidroeletrolíticas e energéticos"
-	},
-	{
-		"item": "21",
-		"cest": "17.112.00",
-		"ncms": [
-			"2202.99.00"
-		],
-		"descricao": "Néctares de frutas e outras bebidas não alcoólicas prontas para beber, exceto isotônicos e energéticos"
 	},
 	{
 		"item": "22",
@@ -10452,24 +8901,6 @@
 		"descricao": "Refrigerante em lata"
 	},
 	{
-		"item": "36",
-		"cest": "03.010.03",
-		"ncms": [
-			"2202.10.00",
-			"2202.99.00"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "36",
-		"cest": "03.010.03",
-		"ncms": [
-			"2202.10.00",
-			"2202.99.00"
-		],
-		"descricao": "Cápsula de refrigerante"
-	},
-	{
 		"item": "37",
 		"cest": "03.013.01",
 		"ncms": [
@@ -10544,14 +8975,6 @@
 		"descricao": "Massas alimentícias tipo instantânea, exceto as descritas no CEST 17047.01."
 	},
 	{
-		"item": "1",
-		"cest": "17.047.00",
-		"ncms": [
-			"1902.30.00"
-		],
-		"descricao": "Massas alimentícias tipo instantânea"
-	},
-	{
 		"item": "1.1",
 		"cest": "17.047.01",
 		"ncms": [
@@ -10584,44 +9007,12 @@
 		"descricao": "Massas alimentícias do tipo comum, não cozidas, nem recheadas, nem preparadas de outro modo, não derivadas do trigo"
 	},
 	{
-		"item": "4",
-		"cest": "17.049.00",
-		"ncms": [
-			"1902.1"
-		],
-		"descricao": "Massas alimentícias do tipo comum, não cozidas, nem recheadas, nem preparadas de outro modo, exceto as descritas nos CEST 17.049.03 e 17.049.06"
-	},
-	{
-		"item": "4",
-		"cest": "17.049.00",
-		"ncms": [
-			"1902.1"
-		],
-		"descricao": "Massas alimentícias do tipo comum, não cozidas, nem recheadas, nem preparadas de outro modo, exceto a descrita no CEST 17.049.03"
-	},
-	{
 		"item": "5",
 		"cest": "17.049.01",
 		"ncms": [
 			"1902.1"
 		],
 		"descricao": "Massas alimentícias do tipo sêmola, não cozidas, nem recheadas, nem preparadas de outro modo, não derivadas do trigo"
-	},
-	{
-		"item": "5",
-		"cest": "17.049.01",
-		"ncms": [
-			"1902.1"
-		],
-		"descricao": "Massas alimentícias do tipo sêmola, não cozidas, nem recheadas, nem preparadas de outro modo, exceto as descritas nos CEST 17.049.04 e 17.049.07"
-	},
-	{
-		"item": "5",
-		"cest": "17.049.01",
-		"ncms": [
-			"1902.1"
-		],
-		"descricao": "Massas alimentícias do tipo sêmola, não cozidas, nem recheadas, nem preparadas de outro modo, exceto a descrita no CEST 17.049.04"
 	},
 	{
 		"item": "6",
@@ -10632,36 +9023,12 @@
 		"descricao": "Massas alimentícias do tipo grano duro, não cozidas, nem recheadas, nem preparadas de outro modo, que contenham ovos"
 	},
 	{
-		"item": "6",
-		"cest": "17.049.02",
-		"ncms": [
-			"1902.1"
-		],
-		"descricao": "Massas alimentícias do tipo granoduro, não cozidas, nem recheadas, nem preparadas de outro modo, exceto a descrita no CEST 17.049.05"
-	},
-	{
 		"item": "7",
 		"cest": "17.049.03",
 		"ncms": [
 			"1902.19.00"
 		],
 		"descricao": "Outras massas alimentícias do tipo comum, não cozidas, nem recheadas, nem preparadas de outro modo, que não contenham ovos, derivadas de farinha de trigo"
-	},
-	{
-		"item": "7",
-		"cest": "17.049.03",
-		"ncms": [
-			"1902.19.00"
-		],
-		"descricao": "Massas alimentícias do tipo comum, não cozidas, nem recheadas, nem preparadas de outro modo, que não contenham ovos, derivadas de farinha de trigo, exceto as descritas no CEST17.049.08"
-	},
-	{
-		"item": "7",
-		"cest": "17.049.03",
-		"ncms": [
-			"1902.19.00"
-		],
-		"descricao": "Massas alimentícias do tipo comum, não cozidas, nem recheadas, nem preparadas de outro modo, que não contenham ovos"
 	},
 	{
 		"item": "8",
@@ -10672,36 +9039,12 @@
 		"descricao": "Outras massas alimentícias do tipo sêmola, não cozidas, nem recheadas, nem preparadas de outro modo, que não contenham ovos, derivadas do trigo"
 	},
 	{
-		"item": "8",
-		"cest": "17.049.04",
-		"ncms": [
-			"1902.19.00"
-		],
-		"descricao": "Massas alimentícias do tipo sêmola, não cozidas, nem recheadas, nem preparadas de outro modo, que não contenham ovos, derivadas de farinha de trigo, exceto as descritas no CEST 17.049.09"
-	},
-	{
-		"item": "8",
-		"cest": "17.049.04",
-		"ncms": [
-			"1902.19.00"
-		],
-		"descricao": "Massas alimentícias do tipo sêmola, não cozidas, nem recheadas, nem preparadas de outro modo, que não contenham ovos"
-	},
-	{
 		"item": "9",
 		"cest": "17.049.05",
 		"ncms": [
 			"1902.19.00"
 		],
 		"descricao": "Outras massas alimentícias do tipo grano duro, não cozidas, nem recheadas, nem preparadas de outro modo, que não contenham ovos"
-	},
-	{
-		"item": "9",
-		"cest": "17.049.05",
-		"ncms": [
-			"1902.19.00"
-		],
-		"descricao": "Massas alimentícias do tipo granoduro, não cozidas, nem recheadas, nem preparadas de outro modo, que não contenham ovos"
 	},
 	{
 		"item": "10",
@@ -10718,54 +9061,6 @@
 			"1902.11.00"
 		],
 		"descricao": "Massas alimentícias do tipo sêmola, não cozidas, nem recheadas, nem preparadas de outro modo, que contenham ovos, derivadas do trigo"
-	},
-	{
-		"item": "10",
-		"cest": "17.049.06",
-		"ncms": [
-			"1902.1"
-		],
-		"descricao": "Massas alimentícias do tipo comum, não cozidas, nem recheadas, nem preparadas de outro modo, exceto a descrita no CEST 17.049.03, derivadas de farinha de trigo"
-	},
-	{
-		"item": "11",
-		"cest": "17.049.07",
-		"ncms": [
-			"1902.1"
-		],
-		"descricao": "Massas alimentícias do tipo sêmola, não cozidas, nem recheadas, nem preparadas de outro modo, exceto a descrita no CEST 17.049.04, derivadas de farinha de trigo"
-	},
-	{
-		"item": "12",
-		"cest": "17.049.08",
-		"ncms": [
-			"1902.19.00"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "13",
-		"cest": "17.049.09",
-		"ncms": [
-			"1902.19.00"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "12",
-		"cest": "17.049.08",
-		"ncms": [
-			"1902.19.00"
-		],
-		"descricao": "Massas alimentícias do tipo comum, não cozidas, nem recheadas, nem preparadas de outro modo, que não contenham ovos, derivadas de farinha de trigo"
-	},
-	{
-		"item": "13",
-		"cest": "17.049.09",
-		"ncms": [
-			"1902.19.00"
-		],
-		"descricao": "Massas alimentícias do tipo sêmola, não cozidas, nem recheadas, nem preparadas de outro modo, que não contenham ovos, derivadas de farinha de trigo"
 	},
 	{
 		"item": "1",
@@ -10910,28 +9205,12 @@
 		"descricao": "Iogurte e leite fermentado em recipiente de conteúdo inferior ou igual a 2 litros, exceto o item classificado no CEST 17.022.00"
 	},
 	{
-		"item": "14",
-		"cest": "17.021.00",
-		"ncms": [
-			"0403"
-		],
-		"descricao": "Iogurte e leite fermentado em recipiente de conteúdo inferior ou igual a 2 litros"
-	},
-	{
 		"item": "15",
 		"cest": "17.021.01",
 		"ncms": [
 			"0403"
 		],
 		"descricao": "Iogurte e leite fermentado em recipiente de conteúdo superior a 2 litros, exceto o item classificado no CEST 17.022.00"
-	},
-	{
-		"item": "15",
-		"cest": "17.021.01",
-		"ncms": [
-			"0403"
-		],
-		"descricao": "Iogurte e leite fermentado em recipiente de conteúdo superior a 2 litros"
 	},
 	{
 		"item": "16",
@@ -10964,14 +9243,6 @@
 			"0406"
 		],
 		"descricao": "Queijos, exceto os dos CEST 17.024.01, 17.024.02, 17.024.03, 17.024.04 e 17.024.05"
-	},
-	{
-		"item": "19",
-		"cest": "17.024.00",
-		"ncms": [
-			"0406"
-		],
-		"descricao": "Queijos, exceto os dos CEST 17.024.01, 17.024.02, 17.024.03 e 17.024.04"
 	},
 	{
 		"item": "20",
@@ -11054,14 +9325,6 @@
 		"descricao": "Salsicha e linguiça, exceto as descritas nos CEST 17.077.01"
 	},
 	{
-		"item": "2",
-		"cest": "17.077.00",
-		"ncms": [
-			"1601.00.00"
-		],
-		"descricao": "Salsicha e lingüiça"
-	},
-	{
 		"item": "2.1",
 		"cest": "17.077.01",
 		"ncms": [
@@ -11084,14 +9347,6 @@
 			"1602"
 		],
 		"descricao": "Outras preparações e conservas de carne, miudezas ou de sangue, exceto as descritas nos CEST 17.079.01, 17.079.02, 17.079.03, 17.079.04, 17.079.05, 17.079.06 e 17.079.07"
-	},
-	{
-		"item": "4",
-		"cest": "17.079.00",
-		"ncms": [
-			"1602"
-		],
-		"descricao": "Outras preparações e conservas de carne, miudezas ou de sangue, exceto as descritas nos CEST 17.079.01, 17.079.02, 17.079.03, 17.079.04, 17.079.05, 17.079.06"
 	},
 	{
 		"item": "5",
@@ -11190,16 +9445,6 @@
 			"1502"
 		],
 		"descricao": "Carne de gado bovino, ovino e bufalino e produtos comestíveis resultantes da matança desse gado submetidos à salga, secagem ou desidratação, exceto os descritos no CEST 17.083.01"
-	},
-	{
-		"item": "15",
-		"cest": "17.083.00",
-		"ncms": [
-			"0210.20.00",
-			"0210.99.00",
-			"1502"
-		],
-		"descricao": "Carne de gado bovino, ovino e bufalino e produtos comestíveis resultantes da matança desse gado submetidos à salga, secagem ou desidratação"
 	},
 	{
 		"item": "15.1",
@@ -11306,22 +9551,6 @@
 		"descricao": "Salgadinhos diversos, exceto os classificados no CEST 17.031.01 e 17.031.02"
 	},
 	{
-		"item": "4",
-		"cest": "17.031.00",
-		"ncms": [
-			"1905.90.90"
-		],
-		"descricao": "Salgadinhos diversos, exceto os classificados no CEST 17.031.01"
-	},
-	{
-		"item": "4",
-		"cest": "17.031.00",
-		"ncms": [
-			"1905.90.90"
-		],
-		"descricao": "Salgadinhos diversos"
-	},
-	{
 		"item": "4.1",
 		"cest": "17.031.01",
 		"ncms": [
@@ -11398,55 +9627,12 @@
 		"descricao": "Chocolate branco, em embalagens de conteúdo inferior ou igual a 1 kg, exceto os classificados nos CEST 17.005.00 e 17.008.00"
 	},
 	{
-		"item": "1",
-		"cest": "17.001.00",
-		"ncms": [
-			"1704.90.10",
-			"1704.90.90"
-		],
-		"descricao": "Chocolate branco, coberturas de chocolate branco e outros produtos de confeitaria com manteiga de cacau, em embalagens de conteúdo inferior ou igual a 1 kg, exceto os classificados nos CEST 17.005.00 e 17.008.00"
-	},
-	{
-		"item": "1",
-		"cest": "17.001.00",
-		"ncms": [
-			"1704.90.10"
-		],
-		"descricao": "Chocolate branco, em embalagens de conteúdo inferior ou igual a 1 kg, excluídos os ovos de páscoa de chocolate"
-	},
-	{
 		"item": "1.1",
 		"cest": "17.001.01",
 		"ncms": [
 			"1704.90.10"
 		],
 		"descricao": "Chocolate branco, em embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg, exceto os classificados no CEST 17.005.00"
-	},
-	{
-		"item": "1.1",
-		"cest": "17.001.01",
-		"ncms": [
-			"1704.90.10",
-			"1704.90.90"
-		],
-		"descricao": "Chocolate branco, coberturas de chocolate branco e outros produtos de confeitaria com manteiga de cacau, em embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg, exceto os classificados nos CEST 17.005.00 e 17.008.00"
-	},
-	{
-		"item": "1.1",
-		"cest": "17.001.01",
-		"ncms": [
-			"1704.90.10",
-			"1704.90.90"
-		],
-		"descricao": "Chocolate branco, coberturas de chocolate branco e outros produtos de confeitaria com manteiga de cacau, em embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg, exceto os classificados nos CEST 17.005.00 e 17.008.00"
-	},
-	{
-		"item": "1.1",
-		"cest": "17.001.01",
-		"ncms": [
-			"1704.90.10"
-		],
-		"descricao": "Chocolate branco, em embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg, exceto os classificados nos CEST 17.005.00 e 17.008.00"
 	},
 	{
 		"item": "1.1",
@@ -11466,15 +9652,6 @@
 		"descricao": "Coberturas de chocolate branco e outros produtos de confeitaria com manteiga de cacau, em embalagens de conteúdo inferior ou igual a 1 kg, exceto os classificados no CEST 17.008.00"
 	},
 	{
-		"item": "1.2",
-		"cest": "17.001.02",
-		"ncms": [
-			"1704.90.10",
-			"1704.90.90"
-		],
-		"descricao": "Coberturas de chocolate branco e outros produtos de confeitaria com manteiga de cacau, em embalagens de conteúdo inferior ou igual a 1 kg, exceto os classificados nos CEST 17.005.00 e 17.008.00"
-	},
-	{
 		"item": "1.3",
 		"cest": "17.001.03",
 		"ncms": [
@@ -11483,15 +9660,6 @@
 		"descricao": "Coberturas de chocolate branco e outros produtos de confeitaria com manteiga de cacau, em embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg, exceto os classificados no CEST 17.008.00"
 	},
 	{
-		"item": "1.3",
-		"cest": "17.001.03",
-		"ncms": [
-			"1704.90.10",
-			"1704.90.90"
-		],
-		"descricao": "Coberturas de chocolate branco e outros produtos de confeitaria com manteiga de cacau, em embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg, exceto os classificados nos CEST 17.005.00 e 17.008.00"
-	},
-	{
 		"item": "2",
 		"cest": "17.002.00",
 		"ncms": [
@@ -11509,73 +9677,10 @@
 		"descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 1 kg"
 	},
 	{
-		"item": "2",
-		"cest": "17.002.00",
-		"ncms": [
-			"1806.31.10",
-			"1806.31.20"
-		],
-		"descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 1 kg"
-	},
-	{
-		"item": "2",
-		"cest": "17.002.00",
-		"ncms": [
-			"1806.31.10",
-			"1806.31.20"
-		],
-		"descricao": "Chocolates, em tabletes, barras ou paus, recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 1 kg"
-	},
-	{
-		"item": "2",
-		"cest": "17.002.00",
-		"ncms": [
-			"1806.31.10",
-			"1806.31.20"
-		],
-		"descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 1 kg"
-	},
-	{
-		"item": "2",
-		"cest": "17.002.00",
-		"ncms": [
-			"1806.31.10",
-			"1806.31.20"
-		],
-		"descricao": "Chocolates contendo cacau, em embalagens de conteúdo inferior ou igual a 1 kg"
-	},
-	{
 		"item": "2.1",
 		"cest": "17.002.01",
 		"ncms": [
 			"1806.31.10"
-		],
-		"descricao": "Chocolates, em tabletes, barras ou paus, recheados, em recipientes ou embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg"
-	},
-	{
-		"item": "2.1",
-		"cest": "17.002.01",
-		"ncms": [
-			"1806.31.10",
-			"1806.31.20"
-		],
-		"descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, recheados, em recipientes ou embalagens imediatas de conteúdo superior a 1 kg e inferior ou igual a 2 kg"
-	},
-	{
-		"item": "2.1",
-		"cest": "17.002.01",
-		"ncms": [
-			"1806.31.10",
-			"1806.31.20"
-		],
-		"descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, recheados, em recipientes ou embalagens imediatas de conteúdo superior a 1 kg e inferior ou igual a 2 kg"
-	},
-	{
-		"item": "2.1",
-		"cest": "17.002.01",
-		"ncms": [
-			"1806.31.10",
-			"1806.31.20"
 		],
 		"descricao": "Chocolates, em tabletes, barras ou paus, recheados, em recipientes ou embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg"
 	},
@@ -11597,27 +9702,9 @@
 		"descricao": "Outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 1 kg"
 	},
 	{
-		"item": "2.2",
-		"cest": "17.002.02",
-		"ncms": [
-			"1806.31.10",
-			"1806.31.20"
-		],
-		"descricao": "Outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 1 kg"
-	},
-	{
 		"item": "2.3",
 		"cest": "17.002.03",
 		"ncms": [
-			"1806.31.20"
-		],
-		"descricao": "Outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, recheados, em recipientes ou embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg"
-	},
-	{
-		"item": "2.3",
-		"cest": "17.002.03",
-		"ncms": [
-			"1806.31.10",
 			"1806.31.20"
 		],
 		"descricao": "Outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, recheados, em recipientes ou embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg"
@@ -11640,42 +9727,6 @@
 		"descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, não recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 2 kg"
 	},
 	{
-		"item": "3",
-		"cest": "17.003.00",
-		"ncms": [
-			"1806.32.10",
-			"1806.32.20"
-		],
-		"descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, não recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 2 kg"
-	},
-	{
-		"item": "3",
-		"cest": "17.003.00",
-		"ncms": [
-			"1806.32.10",
-			"1806.32.20"
-		],
-		"descricao": "Chocolates, em tabletes, barras ou paus, não recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 2 kg"
-	},
-	{
-		"item": "3",
-		"cest": "17.003.00",
-		"ncms": [
-			"1806.32.10",
-			"1806.32.20"
-		],
-		"descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, não recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 2 kg"
-	},
-	{
-		"item": "3",
-		"cest": "17.003.00",
-		"ncms": [
-			"1806.32.10",
-			"1806.32.20"
-		],
-		"descricao": "Chocolate em barras, tabletes ou blocos ou no estado líquido, em pasta, em pó, grânulos ou formas semelhantes, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 2 kg"
-	},
-	{
 		"item": "3.1",
 		"cest": "17.003.01",
 		"ncms": [
@@ -11699,30 +9750,6 @@
 			"1806.90.00"
 		],
 		"descricao": "Chocolates e outras preparações alimentícias contendo cacau, em embalagens de conteúdo inferior ou igual a 1 kg, exceto os classificados nos CEST 17.005.01, 17.006.00, 17.006.02 e 17.007.00"
-	},
-	{
-		"item": "4",
-		"cest": "17.004.00",
-		"ncms": [
-			"1806.90.00"
-		],
-		"descricao": "Chocolates e outras preparações alimentícias contendo cacau, em embalagens de conteúdo inferior ou igual a 1 kg, exceto os classificados nos CEST 17.005.01, 17.006.00, 17.006.02 e 17.007.00"
-	},
-	{
-		"item": "4",
-		"cest": "17.004.00",
-		"ncms": [
-			"1806.90.00"
-		],
-		"descricao": "Chocolates e outras preparações alimentícias contendo cacau, em embalagens de conteúdo inferior ou igual a 1 kg, excluídos os achocolatados em pó e ovos de páscoa de chocolate"
-	},
-	{
-		"item": "4.1",
-		"cest": "17.004.01",
-		"ncms": [
-			"1806.90.00"
-		],
-		"descricao": "Chocolates e outras preparações alimentícias contendo cacau, em embalagens de conteúdo superior a 1 kg e inferior ou igual a 2 kg, exceto os classificados nos CEST 17.005.01, 17.006.00, 17.006.02 e 17.007.00"
 	},
 	{
 		"item": "4.1",
@@ -11805,14 +9832,6 @@
 		"descricao": "Outras preparações em blocos ou em barras, com peso superior a 2kg, ou no estado líquido, em pasta, em pó, grânulos ou formas semelhantes, em recipientes ou embalagens imediatas de conteúdo superior a 2kg"
 	},
 	{
-		"item": "13",
-		"cest": "17.117.00",
-		"ncms": [
-			"1806.20.00"
-		],
-		"descricao": "Outras preparações em blocos ou em barras, com peso superior a 2kg, ou no estado líquido, em pasta, em pó, grânulos ou formas semelhantes, em recipientes ou embalagens imediatas de conteúdo superior a 2kg"
-	},
-	{
 		"item": "1",
 		"cest": "17.046.00",
 		"ncms": [
@@ -11822,28 +9841,10 @@
 		"descricao": "Misturas e preparações para bolos, em embalagem inferior 5 kg"
 	},
 	{
-		"item": "1",
-		"cest": "17.046.00",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para bolos, em embalagem inferior a 5 kg"
-	},
-	{
 		"item": "2",
 		"cest": "17.046.01",
 		"ncms": [
 			"1901.20",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para bolos, em embalagem igual a 5 kg"
-	},
-	{
-		"item": "2",
-		"cest": "17.046.01",
-		"ncms": [
-			"1901.20.00",
 			"1901.90.90"
 		],
 		"descricao": "Misturas e preparações para bolos, em embalagem igual a 5 kg"
@@ -11876,28 +9877,10 @@
 		"descricao": "Misturas e preparações para bolos, em embalagem superior a 25 kg e inferior ou igual a 50 Kg"
 	},
 	{
-		"item": "4",
-		"cest": "17.046.03",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para bolos, em embalagem superior a 25 kg e inferior ou igual a 50 Kg"
-	},
-	{
 		"item": "5",
 		"cest": "17.046.04",
 		"ncms": [
 			"1901.20",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para bolos, em embalagem superior a 50 Kg"
-	},
-	{
-		"item": "5",
-		"cest": "17.046.04",
-		"ncms": [
-			"1901.20.00",
 			"1901.90.90"
 		],
 		"descricao": "Misturas e preparações para bolos, em embalagem superior a 50 Kg"
@@ -11912,28 +9895,10 @@
 		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem inferior a 5 kg"
 	},
 	{
-		"item": "6",
-		"cest": "17.046.05",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem inferior a 5 kg"
-	},
-	{
 		"item": "7",
 		"cest": "17.046.06",
 		"ncms": [
 			"1901.20",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem igual a 5 kg"
-	},
-	{
-		"item": "7",
-		"cest": "17.046.06",
-		"ncms": [
-			"1901.20.00",
 			"1901.90.90"
 		],
 		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem igual a 5 kg"
@@ -11948,28 +9913,10 @@
 		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem superior a 5 kg e inferior ou igual a 25 Kg"
 	},
 	{
-		"item": "8",
-		"cest": "17.046.07",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem superior a 5 kg e inferior ou igual a 25 Kg"
-	},
-	{
 		"item": "9",
 		"cest": "17.046.08",
 		"ncms": [
 			"1901.20",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem superior a 25 kg e inferior ou igual a 50 Kg"
-	},
-	{
-		"item": "9",
-		"cest": "17.046.08",
-		"ncms": [
-			"1901.20.00",
 			"1901.90.90"
 		],
 		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem superior a 25 kg e inferior ou igual a 50 Kg"
@@ -11984,28 +9931,10 @@
 		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem superior a 50 Kg"
 	},
 	{
-		"item": "10",
-		"cest": "17.046.09",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem superior a 50 Kg"
-	},
-	{
 		"item": "11",
 		"cest": "17.046.10",
 		"ncms": [
 			"1901.20",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem inferior a 5 kg"
-	},
-	{
-		"item": "11",
-		"cest": "17.046.10",
-		"ncms": [
-			"1901.20.00",
 			"1901.90.90"
 		],
 		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem inferior a 5 kg"
@@ -12020,28 +9949,10 @@
 		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem igual a 5 kg"
 	},
 	{
-		"item": "12",
-		"cest": "17.046.11",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem igual a 5 kg"
-	},
-	{
 		"item": "13",
 		"cest": "17.046.12",
 		"ncms": [
 			"1901.20",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem superior a 5 kg e inferior ou igual a 25 Kg"
-	},
-	{
-		"item": "13",
-		"cest": "17.046.12",
-		"ncms": [
-			"1901.20.00",
 			"1901.90.90"
 		],
 		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem superior a 5 kg e inferior ou igual a 25 Kg"
@@ -12056,244 +9967,10 @@
 		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem superior a 25 kg e inferior ou igual a 50 Kg"
 	},
 	{
-		"item": "14",
-		"cest": "17.046.13",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem superior a 25 kg e inferior ou igual a 50 Kg"
-	},
-	{
 		"item": "15",
 		"cest": "17.046.14",
 		"ncms": [
 			"1901.20",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem superior a 50 Kg"
-	},
-	{
-		"item": "15",
-		"cest": "17.046.14",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem superior a 50 Kg"
-	},
-	{
-		"item": "16",
-		"cest": "17.046.03",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "17",
-		"cest": "17.046.04",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "18",
-		"cest": "17.046.05",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "19",
-		"cest": "17.046.06",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "20",
-		"cest": "17.046.07",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "21",
-		"cest": "17.046.08",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "22",
-		"cest": "17.046.09",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "23",
-		"cest": "17.046.10",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "24",
-		"cest": "17.046.11",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "25",
-		"cest": "17.046.12",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "26",
-		"cest": "17.046.13",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "27",
-		"cest": "17.046.14",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "REVOGADO"
-	},
-	{
-		"item": "16",
-		"cest": "17.046.03",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para bolos, em embalagem superior a 25 kg e inferior ou igual a 50 Kg"
-	},
-	{
-		"item": "17",
-		"cest": "17.046.04",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para bolos, em embalagem superior a 50 Kg"
-	},
-	{
-		"item": "18",
-		"cest": "17.046.05",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem inferior a 5 kg"
-	},
-	{
-		"item": "19",
-		"cest": "17.046.06",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem igual a 5 kg"
-	},
-	{
-		"item": "20",
-		"cest": "17.046.07",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem superior a 5 kg e inferior ou igual a 25 Kg"
-	},
-	{
-		"item": "21",
-		"cest": "17.046.08",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem superior a 25 kg e inferior ou igual a 50 Kg"
-	},
-	{
-		"item": "22",
-		"cest": "17.046.09",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com menos de 80% de farinha de trigo na sua composição final, em embalagem superior a 50 Kg"
-	},
-	{
-		"item": "23",
-		"cest": "17.046.10",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem inferior a 5 kg"
-	},
-	{
-		"item": "24",
-		"cest": "17.046.11",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem igual a 5 kg"
-	},
-	{
-		"item": "25",
-		"cest": "17.046.12",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem superior a 5 kg e inferior ou igual a 25 Kg"
-	},
-	{
-		"item": "26",
-		"cest": "17.046.13",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem superior a 25 kg e inferior ou igual a 50 Kg"
-	},
-	{
-		"item": "27",
-		"cest": "17.046.14",
-		"ncms": [
-			"1901.20.00",
 			"1901.90.90"
 		],
 		"descricao": "Misturas e preparações para pães com, no mínimo, 80% de farinha de trigo na sua composição final, em embalagem superior a 50 Kg"
@@ -12485,37 +10162,10 @@
 		"descricao": "Misturas e pastas para a preparação de produtos de padaria, pastelaria e da indústria de bolachas e biscoitos, da posição 19.05, exceto os previstos nos CEST 17.046.00 a 17.046.14 e 17.046.16."
 	},
 	{
-		"item": "50",
-		"cest": "17.046.15",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e pastas para a preparação de produtos de padaria, pastelaria e da indústria de bolachas e biscoitos, da posição 19.05, exceto os previstos nos CEST 17.046.00 a 17.046.14 e 17.046.16."
-	},
-	{
-		"item": "50",
-		"cest": "17.046.15",
-		"ncms": [
-			"1901.20.00",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e pastas para a preparação de produtos de padaria, pastelaria e da indústria de bolachas e biscoitos, da posição 19.05, exceto os previstos nos CEST 17.046.00 a 17.046.14"
-	},
-	{
 		"item": "51",
 		"cest": "17.046.16",
 		"ncms": [
 			"1901.20",
-			"1901.90.90"
-		],
-		"descricao": "Misturas e preparações com, no mínimo, 80% de farinha de trigo na sua composição final, exceto as descritas nos CEST 17.046.10 a 17.046.15."
-	},
-	{
-		"item": "51",
-		"cest": "17.046.16",
-		"ncms": [
-			"1901.20.00",
 			"1901.90.90"
 		],
 		"descricao": "Misturas e preparações com, no mínimo, 80% de farinha de trigo na sua composição final, exceto as descritas nos CEST 17.046.10 a 17.046.15."
@@ -12886,43 +10536,10 @@
 		"descricao": "Detergentes em pó, flocos, palhetas, grânulos ou outras formas semelhantes, inclusive adicionados de propriedades desinfetantes ou sanitizantes"
 	},
 	{
-		"item": "1",
-		"cest": "11.004.00",
-		"ncms": [
-			"3402.20.00"
-		],
-		"descricao": "Detergentes em pó, flocos, palhetas, grânulos ou outras formas semelhantes, inclusive adicionados de propriedades desinfetantes ou sanitizantes"
-	},
-	{
-		"item": "1",
-		"cest": "11.004.00",
-		"ncms": [
-			"3402.20.00",
-			"3808.94.19"
-		],
-		"descricao": "Detergentes em pó, flocos, palhetas, grânulos ou outras formas semelhantes, inclusive adicionados de propriedades desinfetantes ou sanitizantes."
-	},
-	{
-		"item": "1",
-		"cest": "11.004.00",
-		"ncms": [
-			"3402.20.00"
-		],
-		"descricao": "Detergentes em pó, flocos, palhetas, grânulos ou outras formas semelhantes"
-	},
-	{
 		"item": "2",
 		"cest": "11.005.00",
 		"ncms": [
 			"3402.50.00"
-		],
-		"descricao": "Detergentes líquidos, exceto para lavar roupa"
-	},
-	{
-		"item": "2",
-		"cest": "11.005.00",
-		"ncms": [
-			"3402.20.00"
 		],
 		"descricao": "Detergentes líquidos, exceto para lavar roupa"
 	},
@@ -12933,31 +10550,6 @@
 			"3402.50.00"
 		],
 		"descricao": "Detergente líquido para lavar roupa, inclusive adicionados de propriedades desinfetantes ou sanitizantes"
-	},
-	{
-		"item": "3",
-		"cest": "11.006.00",
-		"ncms": [
-			"3402.20.00"
-		],
-		"descricao": "Detergentes líquidos para lavar roupa, inclusive adicionados de propriedades desinfetantes ou sanitizantes"
-	},
-	{
-		"item": "3",
-		"cest": "11.006.00",
-		"ncms": [
-			"3402.20.00",
-			"3808.94.19"
-		],
-		"descricao": "Detergente líquido para lavar roupa, , inclusive adicionados de propriedades desinfetantes ou sanitizantes"
-	},
-	{
-		"item": "3",
-		"cest": "11.006.00",
-		"ncms": [
-			"3402.20.00"
-		],
-		"descricao": "Detergente líquido para lavar roupa"
 	},
 	{
 		"item": "6",
