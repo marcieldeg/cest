@@ -56,6 +56,12 @@ public class Main {
 			for (Element tr : trs) {
 				Elements tds = tr.getElementsByTag("td");
 				if (tds.size() == 4 && !"ITEM".equals(tds.get(0).text())) {
+					// textos em verde são descrições antigas, desconsideradas
+					if ("A9-2Tabelajustificadoverde".equals(tds.get(0).getElementsByTag("p").get(0).attr("class")))
+						continue;
+					// ignora revogados
+					if ("REVOGADO".equals(tds.get(1).text()) || "REVOGADO".equals(tds.get(3).text()))
+						continue;
 					Cest cest = new Cest();
 					cest.item = tds.get(0).text();
 					cest.cest = tds.get(1).text();
@@ -66,7 +72,7 @@ public class Main {
 			}
 		}
 		byte[] json = new ObjectMapper().writeValueAsBytes(cests);
-		Files.write(new File("C:\\Users\\Admin\\Desktop\\cests.json").toPath(), json, StandardOpenOption.CREATE_NEW);
+		Files.write(new File("C:\\Users\\Marciel\\Desktop\\cests.json").toPath(), json, StandardOpenOption.CREATE_NEW);
 	}
 
 	public static class Cest {
